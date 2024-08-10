@@ -1,0 +1,83 @@
+[
+  //China - Qin
+  {
+       "name":"Qin Dynasty",
+       "leaderName":"Qin Shi Huang",
+       "adjectives":["Chinese - Qin"],
+       "startBias":["None"],
+       "preferredVictoryType":"Domination",
+       "favoredReligion":"Taoism",
+
+       "startIntroPart1":"Oh, wise and mighty Qin Shi Huangdi, the king of Qin and first Emperor of united China. Qin was an ancient Chinese state established in ninth century before Christ. During the early Warring States period, Qin's underdevelopment and decline had resulted in territorial losses to the Wei Kingdom. But then began a time of reformation in the legal, economic and social systems. The aristocracy system was abolished, all slaves granted citizenship rights, and meritocracy was practised in the military. Focus on increasing agricultural output resulted in major population growth, and the possibility of creating a larger army. Qin rose to prominence and emerged as one the dominant superpower among the Seven Warring States. The final advantage they needed to spread their supremacy over all China was a wise king with an unyielding will. You were that unyielding will, and China has been greatful ever since.",
+       "startIntroPart2":"The eternal glory of Qin Shi Huang, whose wisdom created countless wonders, many declared impossible, is challenged once more. Can your greatness unify the warring states of Earth and make them one under the heaven? Can you succeed where once you failed, and discover the secret of eternal life? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"You are allowed to approach the Emperor to within a hundred paces! What an honour for a nameless visitor! Why have you come?",
+       "declaringWar":"How dare you enrage the might of heaven! I will send my great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
+       "attacking":"Fight me if you have the courage. Soon I will bring my army to teach you a lesson and kill you!",
+       "defeated":"I was sure eternal life... would be mine... this... time...",
+       "afterPeace":"It seemed that we are equal in strength, might as well stop this to strengthen us more. I would like to see you in the next battle!",
+       "tradeRequest":"I decided to give you a piece of my empire to you. Hope you like it.",
+
+       "outerColor":[1,133,135],
+       "innerColor":[192,24,64],
+
+       "uniqueName":"All Under Heaven",
+       "uniques":
+           ["Causes [Resistance] in [enemy cities] if [Qin Dynasty]'s [military power] <in the area> is <greater than> the [defender]'s"],
+       "cities": ["Xianyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Luoyang"],
+  },
+  //China - Wu Zhou
+  {
+       "name":"Wu Zhou Dynasty",
+       "leaderName":"Wu Zetian",
+       "adjectives":["Chinese - Wu Zhou"],
+       "startBias":["None"],
+       "preferredVictoryType":"Scientific",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"The Blessings of Heaven be upon you. Empress Wu Zetian, most beautiful and haughty ruler of China! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the only empress of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
+       "startIntroPart2":"You, great Empress, who, with cunning and beauty, rose from the position of lowly concubine to that of Divine Empress - your people call out to you to lead them! Great China is once again beset on all sides by barbarians. Can you defeat all your many foes and return your country to greatness? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"Salutations to you, I am Empress of all China, China is not something you can meddling with. We want peace, so do you.",
+       "declaringWar":"Oh, believe me, you won't ever be able to bother me one more time! Go meet Yama and say hi to him! Hahahaha!",
+       "attacking":"You fool! I will disembowel you all!",
+       "defeated":"Oh my, you have proven yourself to me that you are truly a cunning and competent advesary to China. Well, I congratulate you on your victory, but I assured you, China will risen again.",
+       "afterPeace":"Well, it seems there's no other options other than peace, oh well, guess it will be commenced.",
+       "tradeRequest":"Oh, friend of mine, what do you think of this request of trade?",
+
+       "outerColor":[202,20,21],
+       "innerColor":[247,216,1],
+
+       "uniqueName":"Art of War",
+       "uniques":
+           ["The [Great General] [combat bonus] <is increased> by [15%], and their [spawn rate] <is increased> by [50%]"],
+       "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
+  },
+  //China - Ming
+   {
+       "name":"Ming Dynasty",
+       "leaderName":"Zhu Di (Yongle)",
+       "adjectives":["Chinese - Ming"],
+       "startBias":["None"],
+       "preferredVictoryType":"Scientific",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"Eternal happiness to you, Yongle, great Emperor of the Ming. Overcoming the treachery of your nephew, the Jianwen Emperor, you launched a campaign to seize China and restore it to greatness. Guided by your loyal and ever-watchful Scholar-Eunuchs, your imperial rule oversaw immeasurable splendour: the construction of great wonders, the advancement of deep knowledge, and the projection of China's power through the legendary Seven Voyages of Zhu Di.",
+       "startIntroPart2":"At no other time before would China be so prosperous. Heavenly emperor, the legends of China's great accomplishments threaten to fade into memory. Can you be a patron to scholars and explorers alike? Can you show the world that China is both powerful and wise? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"Salutations to you, I am Empress of all China, China is not something you can meddling with. We want peace, so do you.",
+       "declaringWar":"Conquest is not my forte, or my choice of action. But you proven to me that there's no alternatives, so be prepared.",
+       "attacking":"Hahahaha, you might as well conquer the kingdom of heaven! Let's see if your arrows can fly that high, and hurt that much!",
+       "defeated":"I have lost the mandate to rule. It passes to you.",
+       "afterPeace":"Well, it seems there's no other options other than peace, oh well, guess it will be commenced.",
+       "tradeRequest":"Oh, friend of mine, what do you think of this request of trade?",
+
+       "outerColor":[202,20,21],
+       "innerColor":[247,216,1],
+
+       "uniqueName":"Art of War",
+       "uniques":
+           ["The [Great General] [combat bonus] <is increased> by [15%], and their [spawn rate] <is increased> by [50%]"],
+       "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
+  },
+]
