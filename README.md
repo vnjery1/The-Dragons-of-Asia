@@ -1,5 +1,5 @@
 # The-Dragons-of-Asia
-An Unciv Mod of a Series of Mods and this one will focus on: China (Wu Zetian, Ming Yongle, Qin Shi Huang, Sun Yat-sen), Korea (Sejong, Seonheok, Kim Il Song, Rhee Syngman), Japan (Tokugawa Ieyasu, Meiji, Hideki Tojo), Manchuria (Nurhaci, Puyi), and Vietnam (Le Thanh Tong, Tran Nhan Tong, Le Loi, Ho Chi Minh)
+An Unciv Mod of a Series of Mods and this one will focus on: China (Wu Zetian, Ming Yongle, Qin Shi Huang, Sun Yat-sen, Mao Zedong), Korea (Sejong, Seonheok, Kim Il Song, Rhee Syngman), Japan (Tokugawa Ieyasu, Meiji, Hideki Tojo), Manchuria (Nurhaci, Puyi), and Vietnam (Le Thanh Tong, Tran Nhan Tong, Le Loi, Ho Chi Minh)
 
 # The-VNJERY1-SERIES
 It will include:
