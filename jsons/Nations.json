@@ -41,7 +41,7 @@
        "introduction":"Salutations to you, I am Empress of all China, China is not something you can meddling with. We want peace, so do you.",
        "declaringWar":"Oh, believe me, you won't ever be able to bother me one more time! Go meet Yama and say hi to him! Hahahaha!",
        "attacking":"You fool! I will disembowel you all!",
-       "defeated":"Oh my, you have proven yourself to me that you are truly a cunning and competent advesary to China. Well, I congratulate you on your victory, but I assured you, China will risen again.",
+       "defeated":"Oh my, you have proven yourself to me that you are truly a cunning and competent advesary to China. Well, I congratulate you on your victory, but I assured you, China will rise again.",
        "afterPeace":"Well, it seems there's no other options other than peace, oh well, guess it will be commenced.",
        "tradeRequest":"Oh, friend of mine, what do you think of this request of trade?",
 
@@ -135,7 +135,34 @@
            ["[Land] units generate [1] [Culture] per [tile] moved <in enemy territory>. Units below [33%] health receive [+1] [Movement] and [+2] [Movement] <when on [Hills] tile>"],
        "cities": ["Beijing","Shanghai","Tianjin","Chongqing","Guangzhou","Shenzhen","Wuhan","Chengdu","Dongguan","Nanjing","Harbin","Xi'an","Senyang","Linzi","Suzhou","Qingdao","Jinan","Zhengzhou","Hangzhou","Dalian","Kunming","Xiamen","Changchun","Nanning","Taiyuan","Hefei","Changzhou","Changsha","Wenzhou","Guiyang","Fuzhou","Shijiazhuang"],
   },
-  //Japan - Tokugawa Shogunate (Ieyasu)
+  //Japan - Ashikaga Yoshimitsu
+   {
+       "name":"Ashikaga Shogunate",
+       "leaderName":"Ashikaga Yoshimitsu",
+       "adjectives":["Japanese - Yoshimitsu"],
+       "startBias":["Hills"],
+       "preferredVictoryType":"Religious",
+       "favoredReligion":"Shinto",
+
+       "startIntroPart1":"Divine blessings of heaven shower upon you, great Ashikaga Yoshimitsu, Shogun of Japan! Your clan has risen from obscurity to the heights of power, recognised as the true ultimate authority in your fractured country. It was your guidance that brought the rebellious Southern Court to heel, favourably ending the violent imperial schism that had plagued your country for decades. You oversaw the construction of wondrous temples in Kyoto, still recognised as works of beauty to this day. Diplomatically you were unmatched, forging beneficial trade agreements with China and Korea to last a century. Truly, your benevolent guidance brought prosperity to your once fractured realm, and it is no wonder you were known as the true King of Japan!",
+       "startIntroPart2":"Great Yoshimitsu, your successors could not replicate your glory. Soon Japan devolved into civil warfare on an unprecedented scale, and the name Ashikaga was tainted with weakness and impotence. Once more Japan needs your steady hand, to assert your birthright as Shogun! Will you restore your people's faith, and bring Japan into a new golden age? Will you build a civilization to stand the test of time?",
+
+       "introduction":"The humble Yoshimitsu, third Shogun of clan Ashikaga, greets you, leader. Japan wishes for peace, but is unmatched in war.",
+       "declaringWar":"Your path of action has made your unredeemable. Prepare for war!",
+       "attacking":"You don't know your limits, don't you... I will make sure you receive your punishment for being too arrogant.",
+       "defeated":"Regrettable... It seems Japan is destined for death and destruction once more...",
+       "afterPeace":"The calmness of peace really delighted this humble one. I hope you have learnt your mistakes after the war.",
+       "tradeRequest":"Greetings, leader. This humble one offers you a trade offer.",
+
+       "outerColor":[176,143,62],
+       "innerColor":[69,35,7],
+
+       "uniqueName":"Five Mountains and Ten Monasteries",
+       "uniques":
+           [""],
+       "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
+  },
+  //Japan - Tokugawa Ieyasu
    {
        "name":"Tokugawa Shogunate",
        "leaderName":"Tokugawa Ieyasu",
@@ -159,7 +186,63 @@
 
        "uniqueName":"Sakoku",
        "uniques":
-           [""],
-       "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
+           ["Gain [1] [Culture], [Science] and [Gold] per tile with [Road], [Railroad] or [Bakuhan]."],
+       "cities": ["Edo","Kyoto","Osaka","Nagoya","Fukuoka","Sendai","Shizuoka","Okayama","Takamatsu","Yokohama","Nagano","Otsu","Aomori","Fukushima","Morioka","Hakodate","Kobe","Fukui","Yamagata","Kagoshima","Hiroshima","Matsumoto","Ōta","Sapporo","Nagasaki","Tottori"],
+  },
+  //Japan - Meiji
+  {
+       "name":"Japanese Empire",
+       "leaderName":"Meiji",
+       "adjectives":["Japanese - Meiji"],
+       "startBias":["Coast"],
+       "preferredVictoryType":"Cultural",
+       "favoredReligion":"Shinto",
+
+       "startIntroPart1":"May the sun rise with you, beloved Meiji Emperor - ruler of the Empire of Japan. When you ascended to the Chrysanthemum Throne at the age of 15, Japan was but a nation suspended in time; divided by its medieval Shogunates and ignorant of the ever Westernising world. During your reign, Japan would undergo one of the most dramatic shifts in history. Opening her borders to trade with the West, Japan would adapt rapidly to the Industrial Revolution of the previous century, reforming her government, her economy, and her armies to meet the standards of modernity. By the time of your death in 1912, Japan had become one of the foremost powers in Asia, setting the stage for a colonial empire that would come to dominate the Pacific.",
+       "startIntroPart2":"Great Emperor, Japan stands once more divided and alone. Can you unite the Japanese people as one and embrace them in a golden age to last the ages? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"You are welcome in the lands of Japan, but you must pledge your honesty and your honour to my name before I would speak with you.",
+       "declaringWar":"Your incompetence, your arrogance and your untrustworthiness has led me to the only option I could think, war.",
+       "attacking":"I see, you want Japan to succumb in front of you. Well, prepare for the wind of god.",
+       "defeated":"It is only I that does this nation great dishonour. I am a servant to my defeat, but I beg you kindness upon my oppressed people.",
+       "afterPeace":"Lucky for you that I accept your peace deal, because I hardly make peace without careful consideration.",
+       "tradeRequest":"Salutations to you, I am interested in a trade with you. What do you think?",
+
+       "outerColor":[127,0,22],
+       "innerColor":[199,169,55],
+
+       "uniqueName":"Imperial Reverence",
+       "uniques":
+           ["[+20%] [Culture] and [Production] <during [Golden Ages]>. [Military] units trained <in a [Golden Age]> begins with [+15] [XP]."],
+       "cities": ["Tokyo","Osaka","Kyoto","Nagoya","Kanazawa","Hiroshima","Yokohama","Wakayama","Sendai","Tokushima","Hagi","Shuri","Toyama","Kumamoto","Fukuoka","Kobe","Fukui","Kochi","Sakai","Akita","Matsue","Niigata","Takamatsu","Okayama","Shizuoka","Nagasaki","Hakodate","Kagoshima","Akamazeki","Amagasaki","Otaru","Kawasaki","Yokosuka","Sapporo","Sasebo","Kokura","Miyahara","Yahata"],
+       "spyNames": ["Kido","Sakamoto","Saigo","Ogaki","Yodo","Kuroishi","Nobuko","Sachiko","Masako","Nakayama"],
+  },
+  //Japan - Hideki Tojo
+  {
+       "name":"Great Empire of Japan",
+       "leaderName":"Hideki Tojo",
+       "adjectives":["Japanese - Hideki Tojo"],
+       "startBias":["Coast"],
+       "preferredVictoryType":"Domination",
+       "favoredReligion":"Shinto",
+
+       "startIntroPart1":"Hideki Tojo, by the grace of His Imperial Majesty, Prime Minister to Japan and her empire, you stand at the charge of a burgeoning war machine. At the turn of the 20th century, the Empire of Japan had rapidly transformed into an industrial and military superpower, and she sought now an empire like those possessed in the West. Under your directive, Japan would wage war against her classical enemies in China and South-East Asia, seeking hegemony over the Pacific coast. This would culminate into a confrontation with the United states of America, and would ultimately lead to the empire's terrible loss and your terrible shame.",
+       "startIntroPart2":"Dutiful Tojo, the forces of Japan once again stand in obediance to the Chrysanthemum Throne. Though Japan's foes are many, her powers are great, and her desire for glory and honour supreme. Can you take charge and lead her Imperial forces once more? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"I am Hideki Tojo, Prime Minister to the Empire of Japan. You are entering a sacred territory, and I advise that you respect this.",
+       "declaringWar":"Today, you are an adversary to Japan, be ready!",
+       "attacking":"You decided to become an adversary to Japan. How laughable, the waves will begin, what about you?",
+       "defeated":"This brings to me great shame, and to the Empire of Japan great humiliation.",
+       "afterPeace":"Peace it is. I hope you have learned something from our encounter.",
+       "tradeRequest":"Greetings, I decided to make a trade with you. Is it suitable for you, in your opinion?",
+
+       "outerColor":[180,199,180],
+       "innerColor":[181,34,78],
+
+       "uniqueName":"Empire of the Pacific",
+       "uniques":
+           ["Gains [Science] <for each [Coast] and [Ocean] tiles>, doubled <in conquered cities>. [+50%] [Production] <towards [Naval] units> <in conquered cities>."],
+       "cities": ["Tokyo","Osaka","Kyoto","Nagoya","Kanazawa","Hiroshima","Yokohama","Wakayama","Sendai","Tokushima","Hagi","Shuri","Toyama","Kumamoto","Fukuoka","Kobe","Fukui","Kochi","Sakai","Akita","Matsue","Niigata","Takamatsu","Okayama","Shizuoka","Nagasaki","Hakodate","Kagoshima","Akamazeki","Amagasaki","Otaru","Kawasaki","Yokosuka","Sapporo","Sasebo","Kokura","Miyahara","Yahata"],
+       "spyNames": ["Amleto","Wellington Roo","Kinoaki","Ma","Itagaki","Masahiko","Kenji","Sadao","Kingoro","Yasuhito"],
   },
 ]
