@@ -159,8 +159,9 @@
 
        "uniqueName":"Five Mountains and Ten Monasteries",
        "uniques":
-           [""],
-       "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
+           ["[Religious] buildings provide additional [Happiness], and are instantly constructed <in conquered cities> <if present in the [Capital]>. Receive a random [Faith] building <during a [Golden Age]>"],
+       "cities": ["Kyoto","Kamakura","Nara","Dazaifu","Gifu","Echizen","Ise","Funai","Ashikaga","Izumo","Kawagoe","Nagano","Yamagata","Fukuhara","Tokushima","Otsu","Tottori","Kokura","Yamaguchi","Tomo","Kiyosu","Katsuyama","Sannohe","Matsumae"],
+       "spyNames": ["Takauji","Katsumoto","Moronao","Yoshimasa","Yoriyuki","Masanaga","Masamoto","Takamitsu","Sesshu","Motokiyo"],
   },
   //Japan - Tokugawa Ieyasu
    {
