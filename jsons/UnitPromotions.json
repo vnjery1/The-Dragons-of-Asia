@@ -1,0 +1,36 @@
+[
+  //Manchuria - Nurhaci
+  {
+    "name":"Red Banner",
+    "uniqueTo":"The Manchus",
+  },
+  {
+    "name":"White Banner",
+    "uniqueTo":"The Manchus",
+  },
+  {
+    "name":"Blue Banner",
+    "uniqueTo":"The Manchus",
+  },
+  {
+    "name":"Black Banner",
+    "uniqueTo":"The Manchus",
+  },
+  {
+    "name":"Yellow Banner",
+    "uniqueTo":"The Manchus",
+  },
+  {
+    "name":"Purple Banner",
+    "uniqueTo":"The Manchus",
+  },
+  {
+    "name":"Pink Banner",
+    "uniqueTo":"The Manchus",
+  },
+  {
+    "name":"Green Banner",
+    "uniqueTo":"The Manchus",
+    "uniques":["Only <in cities with [Courthouse]>"],
+  },
+]
