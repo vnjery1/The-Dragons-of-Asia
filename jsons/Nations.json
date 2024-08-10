@@ -106,6 +106,60 @@
        "uniqueName":"Zhonghua Revival",
        "uniques":
            ["Gain additional [Production] and [Culture] <for each [terrain], [feature] and [improvements] controlled by a city>. [Border growth] is doubled <during [Golden Ages]>"],
+       "cities": ["Guangzhou","Beijing","Taiyuan","Shanghai","Changsha","Nanjing","Chongqing","Shenyang","Chengdu","Wuhan","Taipei","Kaifeng","Suzhou","Guiyang","Xi'an","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang","Harbin","Uliastai","Fengtian","Xining"],
+       "spyNames": ["Song","Huang","Cai","Li","Yang","Yin","Zhang","Wang","He","Qiu"],
+  },
+  //China - People's Republic
+   {
+       "name":"People's Republic of China",
+       "leaderName":"Mao Zedong",
+       "adjectives":["Chinese - People's Republic"],
+       "startBias":["None"],
+       "preferredVictoryType":"Domination",
+
+       "startIntroPart1":"Salutations, Chairman Mao Zedong. Through your teachings and your leadership, you led a successful revolution in China, ending millennia of dynastic rule, imperialist influence, and internal strife in favor of the world’s most successful Communist state. Embroiled in a civil war against those who saw a different path for China, you made a temporary truce to halt the advance of the imperialist Japanese.  Just a few years after, you took Beijing and formed the People’s Republic of China, now a stable and prosperous state, the most populous country in the world.",
+       "startIntroPart2":"Chairman, your people call for you once again. Will you continue to provoke radical thought among your people? Will you help preserve the new China in a world of conflict? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"Greetings, Comrade! I am Mao, Chairman of the People's Republic of China.",
+       "declaringWar":"Your untrustworthiness showed that no one can ever sided with you. I will let you think of what you've done to China!",
+       "attacking":"You! I'll show you the might of the Chinese People's Army!",
+       "defeated":"Classes struggle, some classes triumph, others are eliminated. Such is history; such is the history of civilization for thousands of years. *coughs* I feel ill. Call the doctors now!",
+       "afterPeace":"Oh well, I do want peace with you for now. I will still watching all your moves and motives.",
+       "tradeRequest":"Comrade, are you interested in the wealth I'm trading with you here?",
+
+       "outerColor":[174,38,24],
+       "innerColor":[233,210,131],
+
+       "uniqueName":"The Long March",
+       "uniques":
+           ["[Land] units generate [1] [Culture] per [tile] moved <in enemy territory>. Units below [33%] health receive [+1] [Movement] and [+2] [Movement] <when on [Hills] tile>"],
+       "cities": ["Beijing","Shanghai","Tianjin","Chongqing","Guangzhou","Shenzhen","Wuhan","Chengdu","Dongguan","Nanjing","Harbin","Xi'an","Senyang","Linzi","Suzhou","Qingdao","Jinan","Zhengzhou","Hangzhou","Dalian","Kunming","Xiamen","Changchun","Nanning","Taiyuan","Hefei","Changzhou","Changsha","Wenzhou","Guiyang","Fuzhou","Shijiazhuang"],
+  },
+  //Japan - Tokugawa Shogunate (Ieyasu)
+   {
+       "name":"Tokugawa Shogunate",
+       "leaderName":"Tokugawa Ieyasu",
+       "adjectives":["Japanese - Ieyasu"],
+       "startBias":["None"],
+       "preferredVictoryType":"Scientific",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"Great Shōgun Tokugawa Ieyasu, you know well that the patient blade is the one that will strike home. Guard your homeland carefully from usurpers domestic and foreign, and trust in the industry and resourcefulness of your people, for they alone can be relied upon. The task of rule is one that is long, and its burdens are heavy, but there is no room for discontent, nor for despair, with your hand upon the sword.",
+       "startIntroPart2":"Legendary Daimyo and then Shogun, will you grab the reins of destiny? Will you bring your family and people honor and glory? Will you once again pick up the sword and shield and march to triumph? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"Greetings upon you, this humble one is Tokugawa Ieyasu, the Shogun of Japan. Without my commands, nothing will ever happen. What brought you here?",
+       "declaringWar":"A sword that has a sharp edge will cut through the empty void, and a breeze blows amidst the raging fire showed its resilience. Between you and me, war is inevitable.",
+       "attacking":"Approach me, I dare you, as you need to be cautious. I'll wait for you at the battlefield, and see if you let anywhere unchacked.",
+       "defeated":"The grasses of summer is all a warrior can dream of after every battle. And now, it remains in my dreams.",
+       "afterPeace":"I respect you and your skills, Japan awaits for the next encounter, peace or war, it will still awaits.",
+       "tradeRequest":"Greetings upon you, this humble one requests you of a trade offer. How's that sound?",
+
+       "outerColor":[189,161,27],
+       "innerColor":[0,0,0],
+
+       "uniqueName":"Sakoku",
+       "uniques":
+           [""],
        "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
   },
 ]
