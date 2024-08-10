@@ -246,4 +246,32 @@
        "cities": ["Tokyo","Osaka","Kyoto","Nagoya","Kanazawa","Hiroshima","Yokohama","Wakayama","Sendai","Tokushima","Hagi","Shuri","Toyama","Kumamoto","Fukuoka","Kobe","Fukui","Kochi","Sakai","Akita","Matsue","Niigata","Takamatsu","Okayama","Shizuoka","Nagasaki","Hakodate","Kagoshima","Akamazeki","Amagasaki","Otaru","Kawasaki","Yokosuka","Sapporo","Sasebo","Kokura","Miyahara","Yahata"],
        "spyNames": ["Amleto","Wellington Roo","Kinoaki","Ma","Itagaki","Masahiko","Kenji","Sadao","Kingoro","Yasuhito"],
   },
+  //Manchuria - Nurhaci
+   {
+       "name":"The Manchus",
+       "leaderName":"Nurhaci",
+       "adjectives":["Manchurian - Nurhaci"],
+       "startBias":["Plains"],
+       "preferredVictoryType":"Domination",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"The Eight Banners bow down before you, oh great Nurhaci, Brilliant Khan Who Benefits All Nations, unifier of the Manchu peoples! Under your rule, a collection of scattered Jurchen tribes were unified into a great empire! Your reign was a period of great victory and progress for the Manchu people, consisting of constantly successful campaigns against the Ming, the Koreans, the Mongols and other Jurchen tribes. Truly, no empire in East Asia could withstand the might of the Manchu! Your reign is notable for more than sheer conquest, however, with great and important leaps in Manchu culture, such as the funding of the Eight Banners and the creation of a Manchu Alphabet. And your successors would build off your great achievements, conquering the entirety of China and founding one of the greatest dynasties of all time!",
+       "startIntroPart2":"Oh, bold and noble Khan and Chieftain, the empire your actions shaped has fallen, and the Manchu have been reduced to a mere minority group in another nation’s empire. But your people call your name unto the heavens, desperate for your strong and wise leadership to lead them to glory once more! Will you ride with your Bannermen to the field of battle once more? Will you build a civilization to stand the test of time?",
+
+       "introduction":"You stand before Nurhaci, Brilliant Khan Who Benefits All Nations. Will you be a worthwhile ally or mere fodder for my armies?",
+       "declaringWar":"Your day are numbered, my army and its banners are coming for you!",
+       "attacking":"So you have chosen death. Bring forth my army, let's nail them down 'til nothing of them are left.",
+       "defeated":"You have bested me, warrior. I have no choice but to submit. Which banner shall I be allocated to? What do you mean, 'we don't sort our troops by banner'?!",
+       "afterPeace":"My army and I are trained to fight, but we have a rational mind. Peace is accepted, hope you will be worthwhile next time.",
+       "tradeRequest":"Greetings, can we trade with you? Don't worry, it's worth your time.",
+
+       "outerColor":[241,204,53],
+       "innerColor":[32,40,113],
+
+       "uniqueName":"Eight Banners",
+       "uniques":
+           ["[Land] units are randomly assigned with [1 of 8] [Banner] promotions <upon their construction>. Units received additional [Combat Strength] and [Movement] <when beginning a turn adjacent to a unit of the same [Banner] promotion>."],
+       "cities": ["Mukden","Harbin","Cangcon","Girin","Ningguta","Cicigar","Suniha","Yehe","Tuhe","Sarhu","Jamuhu","Hunehe","Sunggari","Akuri","Musi","Heseri","Giyaliku","Socoro","Hulun","Irkule","Erdun","Nurhan","Bektu","Cinggeri","Janggin","Kersun","Mongguri","Yengge","Silergi","Tanggiya","Ukuri","Supingkai","Boduna","Giyamusi"],
+       "spyNames": ["Hong Taiji","Dorgon","Fulin","Xuanye","Yinzhen","Hongli","Yongyan","Minning","Oboi","Cixi"],
+  },
 ]
