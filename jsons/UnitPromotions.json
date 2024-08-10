@@ -31,6 +31,6 @@
   {
     "name":"Green Banner",
     "uniqueTo":"The Manchus",
-    "uniques":["Only <in cities with [Courthouse]>"],
+    "uniques":["Only available <in cities with [Courthouse]>. Can convert enemy units into your units by [15%], and receive the [Green Banner]."],
   },
 ]
