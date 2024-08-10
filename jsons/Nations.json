@@ -59,25 +59,53 @@
        "leaderName":"Zhu Di (Yongle)",
        "adjectives":["Chinese - Ming"],
        "startBias":["None"],
-       "preferredVictoryType":"Scientific",
+       "preferredVictoryType":"Cultural",
        "favoredReligion":"Buddhism",
 
        "startIntroPart1":"Eternal happiness to you, Yongle, great Emperor of the Ming. Overcoming the treachery of your nephew, the Jianwen Emperor, you launched a campaign to seize China and restore it to greatness. Guided by your loyal and ever-watchful Scholar-Eunuchs, your imperial rule oversaw immeasurable splendour: the construction of great wonders, the advancement of deep knowledge, and the projection of China's power through the legendary Seven Voyages of Zhu Di.",
        "startIntroPart2":"At no other time before would China be so prosperous. Heavenly emperor, the legends of China's great accomplishments threaten to fade into memory. Can you be a patron to scholars and explorers alike? Can you show the world that China is both powerful and wise? Can you build a civilisation that will stand the test of time?",
 
-       "introduction":"Salutations to you, I am Empress of all China, China is not something you can meddling with. We want peace, so do you.",
+       "introduction":"Greetings, I am the Yongle Emperor. Those who trades are all friends of mine, and those who threatens me can only know my wrath upon themselves. So, what bring you to China?",
        "declaringWar":"Conquest is not my forte, or my choice of action. But you proven to me that there's no alternatives, so be prepared.",
        "attacking":"Hahahaha, you might as well conquer the kingdom of heaven! Let's see if your arrows can fly that high, and hurt that much!",
-       "defeated":"I have lost the mandate to rule. It passes to you.",
-       "afterPeace":"Well, it seems there's no other options other than peace, oh well, guess it will be commenced.",
-       "tradeRequest":"Oh, friend of mine, what do you think of this request of trade?",
+       "defeated":"The road ahead of me is dark, the pines are like walls that blocked my view. The sky above and the earth below, I can't see it as if it was lacquer. I have lost the mandate to rule this land and it passes to you.",
+       "afterPeace":"It seems that peace is the only option. And I felt that it is good, I'll let it happened.",
+       "tradeRequest":"Greetings, I offer you trade of wealth among us. What do you think of this offer?",
 
-       "outerColor":[202,20,21],
+       "outerColor":[1,42,108],
        "innerColor":[247,216,1],
 
-       "uniqueName":"Art of War",
+       "uniqueName":"Imperial Eunuchs",
        "uniques":
-           ["The [Great General] [combat bonus] <is increased> by [15%], and their [spawn rate] <is increased> by [50%]"],
+           ["[Specialists] generate [+2] [Great Person Points] <in cities with a [Spy]>. Receive an extra [Spy] <when meeting [50%] of the [city-states]> and <when meeting [100%] of the [city-states]>."],
+       "cities": ["Nanjing","Shuntian","Fuzhou","Guangzhou","Guilin","Guiyang","Kaifeng","Wuchang","Nanchang","Xi'an","Jinan","Taiyuan","Chengdu","Kunming","Hangzhou","Fengyang","Baoding","Yanzhou","Pingyang","Luoyang","Fengxiang","Baoning","Ruizhou","Hanyang","Jiande","Xinghua","Zhaoqing","Pingle","Nanning","Anshun"],
+       "spyNames": ["Wang","Zhou","Tian","Wu","Nguyen","Gang","Feng","Wei","Liu","Wanli"],
+   },
+  //China - Republic
+   {
+       "name":"Republic of China",
+       "leaderName":"Sun Yat-sen",
+       "adjectives":["Chinese - Republic"],
+       "startBias":["None"],
+       "preferredVictoryType":"Diplomatic",
+       "favoredReligion":"Confucianism",
+
+       "startIntroPart1":"May the glory of China be upon you, glorious Sun Yat-sen, Father of modern China and Forerunner of the Revolution. Influenced much by the ideals you found during your education in Hawaii, after studying medicine, you became a political philosopher, entering revolutionary groups and forming your own, such as the Four Bandits, which grew ever increasingly frustrated with the perceived backwardness of the Qing. After a number of exiles and rebellions, and establishing your political philosophy of the Three Principles of the People, you served as both provisional president and, later, de facto ruler of the Republic of China.",
+       "startIntroPart2":"President Sun, the people of China need you once more. One of the only modern leaders of China to be revered in both the modern Republic and People's Republic, they need your strength, tenacity, and courage. Your people call for you once more. Will you be able to live up to your legacy, and build your own Republic without slipping into chaos? Can you build a civilization that will stand the test of time?",
+
+       "introduction":"Hello, I am Sun Yat-sen, representative of this vast, populus republic of China. It may seem like I'm the one in charge here, but I merely speak for the people.",
+       "declaringWar":"I do not want any conflict, but you showed that you are untrustworthy, so there's no other options but war.",
+       "attacking":"Well, if my words are not enough for you, then force it is. I'll wait for you at the battlefield.",
+       "defeated":"You have doomed China for years to come. I was able to successfully unite China for the greater good- just for the people to become divided once more at your hand.",
+       "afterPeace":"Peace will be commenced, I waited for this moment for a long time. You showed yourself your skills right there, I'm impressed, to be honest.",
+       "tradeRequest":"Hi, I want to inform you of my request of trade. What do you think, is this suitable for you?",
+
+       "outerColor":[164,167,111],
+       "innerColor":[176,51,37],
+
+       "uniqueName":"Zhonghua Revival",
+       "uniques":
+           ["Gain additional [Production] and [Culture] <for each [terrain], [feature] and [improvements] controlled by a city>. [Border growth] is doubled <during [Golden Ages]>"],
        "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
   },
 ]
