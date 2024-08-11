@@ -101,8 +101,7 @@
         "requiredTech": "Machinery",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
-        "promotions": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-                       "[+1] Range"],
+        "promotions": ["[+1] Range"],
         "attackSound": "crossbow"
     },
     {
