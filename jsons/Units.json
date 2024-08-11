@@ -101,8 +101,8 @@
         "requiredTech": "Machinery",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
-        "promotions": ["Earns [Great Person Points] <from kills>",
-                       "[+1] Range <when stationed at a [Holy Site]>"],
+        "promotions": ["Earn [100]% of killed [Military] unit's [Strength] as [Great Person Points]",
+                       "[+1] Range <when beginning a turn adjacent to a [Holy Site]>"],
         "attackSound": "crossbow"
     },
     {
