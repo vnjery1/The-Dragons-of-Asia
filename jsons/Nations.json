@@ -23,7 +23,7 @@
 
        "uniqueName":"All Under Heaven",
        "uniques":
-           ["Causes [Resistance] in [enemy cities] if [Qin Dynasty]'s [military power] <in the area> is <greater than> the [defender]'s"],
+           ["Causes [Resistance] in [enemy cities] if [Qin Dynasty]'s [military power] is <greater than> the [defender]'s <in the area>"],
        "cities": ["Xianyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Luoyang"],
   },
   //China - Wu Zhou
@@ -77,7 +77,7 @@
 
        "uniqueName":"Imperial Eunuchs",
        "uniques":
-           ["[Specialists] generate [+2] [Great Person Points] <in cities with a [Spy]>. Receive an extra [Spy] <when meeting [50%] of the [city-states]> and <when meeting [100%] of the [city-states]>."],
+           ["[Specialists] generate [+2] [Great Person Points] <in cities with a [Spy]>. Receive an extra [Spy] <when meeting [50%] of the [city-states]> and receive an extra [Spy] <when meeting [100%] of the [city-states]>."],
        "cities": ["Nanjing","Shuntian","Fuzhou","Guangzhou","Guilin","Guiyang","Kaifeng","Wuchang","Nanchang","Xi'an","Jinan","Taiyuan","Chengdu","Kunming","Hangzhou","Fengyang","Baoding","Yanzhou","Pingyang","Luoyang","Fengxiang","Baoning","Ruizhou","Hanyang","Jiande","Xinghua","Zhaoqing","Pingle","Nanning","Anshun"],
        "spyNames": ["Wang","Zhou","Tian","Wu","Nguyen","Gang","Feng","Wei","Liu","Wanli"],
    },
