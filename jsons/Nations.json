@@ -304,8 +304,8 @@
   //Manchuria - Nobusuke Kishi
   {
        "name":"Manshukoku",
-       "leaderName":"Puyi",
-       "adjectives":["Manchurian - Puyi"],
+       "leaderName":"Nobusuke Kishi",
+       "adjectives":["Manchurian - Nobusuke Kishi"],
        "startBias":["None"],
        "preferredVictoryType":"Economic",
        "favoredReligion":"Shinto",
