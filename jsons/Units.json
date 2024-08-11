@@ -74,11 +74,12 @@
         "uniqueTo": "Ming Dynasty",
         "unitType": "Civilian Water",
         "uniques": [
-            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
             "Unbuildable",
             "Uncapturable",
+            
             "Can be earned through combat <for [Water] units>",
-            "Great Person - [Navy]",
+            "Great Person - [War]",
             "Can instantly construct a [Dry Dock] improvement <by consuming this unit>",
             "[+1] Sight",
             "Can purchase City-States outright, bringing them under [Ming Dynasty]'s control.",
