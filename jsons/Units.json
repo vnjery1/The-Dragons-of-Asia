@@ -12,7 +12,7 @@
     "obsoleteTech": "Civil Service",
     "upgradesTo": "Pikeman",
     "uniques":["[+50]% Strength <vs [Mounted] units>",
-               "Automatically heals [5] HP <for every adjacent [Ancient Infantry]"],
+               "Automatically heals [5] HP <for every adjacent [Ancient Infantry]>."],
     "attackSound":"metalhit",
   },
 ]
