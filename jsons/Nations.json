@@ -159,7 +159,7 @@
 
        "uniqueName":"Five Mountains and Ten Monasteries",
        "uniques":
-           ["[Religious] buildings provide additional [Happiness], and are instantly constructed <in conquered cities> <if present in the [Capital]>. Receive a random [Faith] building <during a [Golden Age]>"],
+           ["[Religious] buildings provide additional [Happiness], and are instantly constructed <in annexed cities> <if present in the [Capital]>. Receive a random [Faith] building <during a [Golden Age]>"],
        "cities": ["Kyoto","Kamakura","Nara","Dazaifu","Gifu","Echizen","Ise","Funai","Ashikaga","Izumo","Kawagoe","Nagano","Yamagata","Fukuhara","Tokushima","Otsu","Tottori","Kokura","Yamaguchi","Tomo","Kiyosu","Katsuyama","Sannohe","Matsumae"],
        "spyNames": ["Takauji","Katsumoto","Moronao","Yoshimasa","Yoriyuki","Masanaga","Masamoto","Takamitsu","Sesshu","Motokiyo"],
   },
@@ -242,7 +242,7 @@
 
        "uniqueName":"Empire of the Pacific",
        "uniques":
-           ["Gains [Science] <for each [Coast] and [Ocean] tiles>, doubled <in conquered cities>. [+50%] [Production] <towards [Naval] units> <in conquered cities>."],
+           ["Gains [Science] <for each [Coast] and [Ocean] tiles>, doubled <in annexed cities>. [+50%] [Production] <towards [Naval] units> <in annexed cities>."],
        "cities": ["Tokyo","Osaka","Kyoto","Nagoya","Kanazawa","Hiroshima","Yokohama","Wakayama","Sendai","Tokushima","Hagi","Shuri","Toyama","Kumamoto","Fukuoka","Kobe","Fukui","Kochi","Sakai","Akita","Matsue","Niigata","Takamatsu","Okayama","Shizuoka","Nagasaki","Hakodate","Kagoshima","Akamazeki","Amagasaki","Otaru","Kawasaki","Yokosuka","Sapporo","Sasebo","Kokura","Miyahara","Yahata"],
        "spyNames": ["Amleto","Wellington Roo","Kinoaki","Ma","Itagaki","Masahiko","Kenji","Sadao","Kingoro","Yasuhito"],
   },
