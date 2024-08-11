@@ -55,7 +55,7 @@
         "attackSound": "cannon"
    },
    {
-        "name": "Musketman",
+        "name": "Shenji Musketeer",
         "replaces":"Musketman",
         "uniquesTo":"Ming Dynasty",
         "unitType": "Gunpowder",
