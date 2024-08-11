@@ -168,4 +168,21 @@
         ],
         "movement": 4
     },
+    {
+        "name": "Daimyo",
+        "replaces": "Great General",
+        "uniqueTo": "Tokugawa Shogunate",
+        "unitType": "Civilian",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+            "Can start a [6]-turn Golden Age",
+            "Can increase the [Production] of [{Military} {Land}] units <when stationed in a city>",
+            "Can be earned through combat <for [Land] units>",
+            "Great Person - [War]",
+            "Unbuildable",
+            "Uncapturable"
+        ],
+        "movement": 4
+    },
 ]
