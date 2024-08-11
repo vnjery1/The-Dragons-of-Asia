@@ -270,7 +270,7 @@
 
        "uniqueName":"Eight Banners",
        "uniques":
-           ["[Land] units are randomly assigned with [1 of 8] [Banner] promotions <upon their construction>. Units received additional [Combat Strength] and [Movement] <when beginning a turn adjacent to a unit of the same [Banner] promotion>."],
+           ["[Land] units are randomly assigned with [Red Banner], [Blue Banner], [Yellow Banner], [White Banner], [Black Banner], [Pink Banner], [Green Banner] or [Banner] promotions <upon their construction>. Units received additional [Combat Strength] and [Movement] <when beginning a turn adjacent to a unit of the same promotion>."],
        "cities": ["Mukden","Harbin","Cangcon","Girin","Ningguta","Cicigar","Suniha","Yehe","Tuhe","Sarhu","Jamuhu","Hunehe","Sunggari","Akuri","Musi","Heseri","Giyaliku","Socoro","Hulun","Irkule","Erdun","Nurhan","Bektu","Cinggeri","Janggin","Kersun","Mongguri","Yengge","Silergi","Tanggiya","Ukuri","Supingkai","Boduna","Giyamusi"],
        "spyNames": ["Hong Taiji","Dorgon","Fulin","Xuanye","Yinzhen","Hongli","Yongyan","Minning","Oboi","Cixi"],
   },
