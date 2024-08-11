@@ -12,6 +12,7 @@
     "obsoleteTech": "Civil Service",
     "upgradesTo": "Pikeman",
     "uniques":["[+50]% Strength <vs [Mounted] units>",
+               "[-15]% Strength <vs [Gunpowder] units>",
                "Automatically heals [5] HP <for every adjacent [Ancient Infantry]>."],
     "attackSound":"metalhit",
   },
@@ -249,5 +250,48 @@
         "promotions": ["Blitz", "Quick Study"],
         "uniques": ["[+15]% Combat Strength <when fighting in [Foreign Land] tiles>"],
         "attackSound": "shot"
+    },
+  //Japan - Hideki Tojo
+    {
+        "name": "Yamato",
+        "replaces": "Battleship",
+        "uniqueTo": "Great Empire of Japan",
+        "unitType": "Ranged Water",
+        "movement": 4,
+        "strength": 55,
+        "rangedStrength": 55,
+        "range": 3,
+        "cost": 410,
+        "requiredResource": "Oil",
+        "requiredTech": "Replaceable Parts",
+        "upgradesTo": "Missile Cruiser",
+        "uniques": ["Never appears as a Barbarian unit",
+                    "[+50]% Combat Strength <vs cities>",
+                    "Can carry [2] [Fighter] units"],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "shipguns"
+    },
+    {
+        "name": "Zero",
+        "replaces": "Fighter",
+        "uniqueTo": "Great Empire of Japan",
+        "unitType": "Fighter",
+        "movement": 1,
+        "strength": 50,
+        "rangedStrength": 50,
+        "range": 8,
+        "interceptRange": 8,
+        "cost": 450,
+        "requiredTech": "Radar",
+        "upgradesTo": "Jet Fighter",
+        "uniques": [
+            "[100]% chance to intercept air attacks",
+            "[+150]% Strength <vs [Bomber] units>",
+            "[+150]% Strength <vs [Helicopter] units>",
+            "[+30]% Strength <vs [Fighter] units>",
+            "[+4] Sight",
+            "Can see over obstacles"
+        ],
+        "attackSound": "machinegun"
     },
 ]
