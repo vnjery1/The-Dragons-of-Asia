@@ -276,29 +276,55 @@
   },
   //Manchuria - Puyi
    {
-       "name":"Wu Zhou Dynasty",
-       "leaderName":"Wu Zetian",
-       "adjectives":["Chinese - Wu Zhou"],
+       "name":"Manchuria",
+       "leaderName":"Puyi",
+       "adjectives":["Manchurian - Puyi"],
        "startBias":["None"],
-       "preferredVictoryType":"Scientific",
-       "favoredReligion":"Buddhism",
+       "preferredVictoryType":"Cultural",
+       "favoredReligion":"Confucianism",
 
-       "startIntroPart1":"The Blessings of Heaven be upon you. Empress Wu Zetian, most beautiful and haughty ruler of China! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the only empress of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
-       "startIntroPart2":"You, great Empress, who, with cunning and beauty, rose from the position of lowly concubine to that of Divine Empress - your people call out to you to lead them! Great China is once again beset on all sides by barbarians. Can you defeat all your many foes and return your country to greatness? Can you build a civilisation that will stand the test of time?",
+       "startIntroPart1":"",
+       "startIntroPart2":"",
 
-       "introduction":"Salutations to you, I am Empress of all China, China is not something you can meddling with. We want peace, so do you.",
-       "declaringWar":"Oh, believe me, you won't ever be able to bother me one more time! Go meet Yama and say hi to him! Hahahaha!",
-       "attacking":"You fool! I will disembowel you all!",
-       "defeated":"Oh my, you have proven yourself to me that you are truly a cunning and competent advesary to China. Well, I congratulate you on your victory, but I assured you, China will risen again.",
-       "afterPeace":"Well, it seems there's no other options other than peace, oh well, guess it will be commenced.",
-       "tradeRequest":"Oh, friend of mine, what do you think of this request of trade?",
+       "introduction":"Welcome to Manchuria, I am Emperor Puyi, the last monarch of China, and I saw you have potential to become our ally.",
+       "declaringWar":"I couldn't believe what you did! You and me are no longer potential allies, but enemies!",
+       "attacking":"You think I would be scared for that? Although I am, I would still fight against you! Be ready!",
+       "defeated":"It seems that... I lost... Well, guess now, I am but a normal man.",
+       "afterPeace":"Peace? Oh really? That's great, I am bored of this war already.",
+       "tradeRequest":"Hey, I offer you my trade request. Is it good enough for you?",
+     
+       "outerColor":[225,175,42],
+       "innerColor":[20,55,95],
 
-       "outerColor":[202,20,21],
-       "innerColor":[247,216,1],
-
-       "uniqueName":"Art of War",
+       "uniqueName":"The Final Emperor",
        "uniques":
-           ["The [Great General] [combat bonus] <is increased> by [15%], and their [spawn rate] <is increased> by [50%]"],
-       "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
+           ["[Great Person]'s spawn rate <is increased> by [15%]. [Military] units received [+3] [Movement] <when beginning the turn on [Tundra] or [Hills] tiles>."],
+       "cities": ["Changchun","Mukden","Harbin","Shenyang","Dalian","Lüshunkuo","Yanbian","Jilin","Qiqihar","Jinzhou","Bei'an","Anshan","Gulian","Hailar","Manzhouli","Baicheng","Fushun","Jiamusi","Hegang","Siping","Yitulihe"],
   },
-]
+  //Manchuria - Nobusuke Kishi
+  {
+       "name":"Manshukoku",
+       "leaderName":"Puyi",
+       "adjectives":["Manchurian - Puyi"],
+       "startBias":["None"],
+       "preferredVictoryType":"Economic",
+       "favoredReligion":"Shinto",
+
+       "startIntroPart1":"Come greet the rising sun, Nobusuke Kishi, administrator of the most vital frontier of our harmonious empire. Manshukoku was a lawless expanse, the people living in terror of the warlords and their petty feuds, until your predecessors came and established the glorious and orderly state of Manshukoku. From the ashes, overseen by the most able minds our Empire has to offer, industry and prosperity were brought to the lands of Emperor Puyi. But Manshukoku is not simply an example to the world in terms of coal and steel; it offers a new path amidst nationalistic bickering, a new flag which all five races of these lands can salute and be equally proud of what Manshukoku has become.",
+       "startIntroPart2":"Mr Kishi, Manshukoku's enemies are numerous, and it is time for the second stage. Hundreds of thousands of tonnes of steel are not enough; we call on you, your novel management techniques, and your friends in the mighty zaibatsu to bring this land to further glory. Will you rise to the challenge? Will your factories and railways be the envy of all Asia? Can you ensure this experiment stands the test of time?",
+
+       "introduction":"Welcome. You stand in the lands of Emperor Puyi and the Five-Coloured Banner... but more importantly, the lands of a wonderful investment opportunity. I am Nobusuke Kishi. Let us take tea.",
+       "declaringWar":"You are no longer an ally to Manshukoku, but a new enemy to it. Prepare for your annihilation.",
+       "attacking":"That action will be the last action you will do to my face. You are digging your own grave, you scheming snake.",
+       "defeated":"Manchukuo may have fallen, but mark my words, I have not. Wait until another enemy knocks at your door, and I assure you, you will be reaching to unlock my cell once more.",
+       "afterPeace":"Thanks, it's time for us all be prosperous rather than desperate each other out.",
+       "tradeRequest":"Ah, can I offer you a trade? Surely you consider it to be good, isn't it?",
+     
+       "outerColor":[7,92,146],
+       "innerColor":[214,165,2],
+
+       "uniqueName":"Man-Gyo",
+       "uniques":
+           ["Buildings (except [Wonder]) are constructed [50%] faster <during a [Golden Age]>."],
+       "cities": ["Shinkyo","Hoten","Harubin","Tanto","Kitsurin","Anzan","Botanko","Chichiharu","Jamusu","Tsuka","Shihei","Shotoku","Jaranton","Suika","Tsuryo","Bujun","Eiko","Fushin","Hongeiko","Fukin","Sojo","Tonka","Tetsurei","Tonan","Fuyo","Kairin","Seian","Botsuri","Hairaru","Kokuga","Hokuan","Kanto"],
+       "spyNames": ["Zheng","Zhang","Kosuke","Ryoko","Chuluunbold","Altantsetseg","Dorgon","Basinu","Kim","Park"],
