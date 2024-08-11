@@ -4,7 +4,7 @@
     "name":"Ancient Infantry",
     "unitType":"Sword",
     "replaces":"Spearman",
-    "uniquesTo":"Qin Dynasty",
+    "uniqueTo":"Qin Dynasty",
     "movement": 2,
     "strength": 11,
     "cost": 56,
@@ -57,7 +57,7 @@
    {
         "name": "Shenji Musketeer",
         "replaces":"Musketman",
-        "uniquesTo":"Ming Dynasty",
+        "uniqueTo":"Ming Dynasty",
         "unitType": "Gunpowder",
         "movement": 2,
         "strength": 24,
