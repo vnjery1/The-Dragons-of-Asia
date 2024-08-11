@@ -101,7 +101,7 @@
         "requiredTech": "Machinery",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
-        "uniques": ["[+1] Range",
+        "uniques": ["[+1] Range <when beginning a turn adjacent to a [Holy site]>",
                     "Earn [100]% of killed [Military] unit's Strength as [Faith]"],
         "attackSound": "crossbow"
     },
@@ -111,7 +111,7 @@
         "replaces": "Musketman",
         "uniqueTo": "Ashikaga Shogunate",
         "movement": 2,
-        "strength": 24,
+        "strength": 26,
         "cost": 150,
         "requiredTech": "Physics",
         "upgradesTo": "Rifleman",
@@ -143,7 +143,7 @@
         "replaces": "Musketman",
         "uniqueTo": "Tokugawa Shogunate",
         "movement": 2,
-        "strength": 24,
+        "strength": 36,
         "cost": 150,
         "requiredTech": "Gunpowder",
         "upgradesTo": "Rifleman",
@@ -151,5 +151,21 @@
         "uniques": ["[+25]% Combat Strength <vs [Melee] units>",
                     "[+10]% Combat Strength <vs [Sword] units>"],
         "attackSound": "shot"
+    },
+    {
+        "name": "Rangakusha",
+        "replaces": "Great Scientist",
+        "uniqueTo": "Tokugawa Shogunate",
+        "unitType": "Civilian",
+        "uniques": [
+            "Can hurry technology research",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
+            "Can instantly discover [1] Technology <by consuming this unit> <when beginning a turn adjacent to a [Bakuhan]",
+            "Is part of Great Person group [Scientist]",
+            "Great Person - [Science]",
+            "Unbuildable",
+            "Uncapturable"
+        ],
+        "movement": 4
     },
 ]
