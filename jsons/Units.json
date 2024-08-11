@@ -68,4 +68,22 @@
         "uniques":["Gains a unique promotion <depending upon where it is trained>."],
         "attackSound": "shot"
     },
+    {
+        "name": "Treasure Fleet",
+        "replaces": "Great Admiral",
+        "uniqueTo": "Ming Dynasty",
+        "unitType": "Civilian Water",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+            "Unbuildable",
+            "Uncapturable",
+            "Can be earned through combat <for [Water] units>",
+            "Great Person - [Navy]",
+            "Can instantly construct a [Dry Dock] improvement <by consuming this unit>",
+            "[+1] Sight",
+            "Can purchase City-States outright, bringing them under [Ming Dynasty]'s control.",
+            "Each [Great Person] expanded generates [+25] Great Person Points <towards [Treasure Fleet]>."
+        ],
+        "movement": 6
+    },
 ]
