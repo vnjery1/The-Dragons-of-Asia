@@ -15,4 +15,57 @@
                "Automatically heals [5] HP <for every adjacent [Ancient Infantry]>."],
     "attackSound":"metalhit",
   },
+  //China - Wu Zhou
+  {
+        "name": "Chu-Ko-Nu",
+        "unitType": "Archery",
+        "replaces": "Crossbowman",
+        "uniqueTo": "Wu Zhou Dynasty",
+        "movement": 2,
+        "strength": 13,
+        "rangedStrength": 14,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "promotions": ["[Chu-Ko-Nu] ability"],
+        "attackSound": "crossbow"
+  },
+  //China - Yongle
+  {
+        "name": "Crouching Tiger",
+        "replaces": "Cannon",
+        "unitType": "Siege",
+        "uniquesTo": "Ming Dynasty",
+        "movement": 2,
+        "strength": 30,
+        "rangedStrength": 50,
+        "cost": 460,
+        "requiredTech": "Chemistry",
+        "promotions": ["Indirect Fire"],
+        "upgradesTo": "Artillery",
+        "obsoleteTech": "Dynamite",
+        "uniques": [
+            "[+200]% Strength <vs cities> <when attacking>",
+            "No defensive terrain bonus",
+            "Must set up to ranged attack",
+            "[-1] Sight",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "cannon"
+   },
+   {
+        "name": "Musketman",
+        "replaces":"Musketman",
+        "uniquesTo":"Ming Dynasty",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 24,
+        "cost": 150,
+        "requiredTech": "Physics",
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "uniques":["Gains a unique promotion <depending upon where it is trained>."],
+        "attackSound": "shot"
+    },
 ]
