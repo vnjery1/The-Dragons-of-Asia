@@ -2,7 +2,19 @@
   //China - Yongle
   {
     "name":"Divine Engine Division",
-    "uniquesTo":"
+    "uniqueTo":"Shenji Musketeer",
+    "uniques":["Only available <in [Capital]>.","[+[30]% Combat Strength <while fighting near the [Capital]>."],
+  },
+  {
+    "name":"Five Barracks Division",
+    "uniqueTo":"Shenji Musketeer",
+    "uniques":["Only available <in conquered cities>.","+[20]% Combat Strength <when [Flanking]>"],
+  },
+  {
+    "name":"Firearms Division",
+    "uniqueTo":"Shenji Musketeer",
+    "uniques":["Only available <in cities that are not [Capital] or conquered cities>","+[15]% Combat Strength <vs [Gunpowder] units>"],
+  },
   //Manchuria - Nurhaci
   {
     "name":"Red Banner",
