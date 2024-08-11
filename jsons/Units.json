@@ -88,4 +88,68 @@
         ],
         "movement": 6
     },
+  //Japan - Ashikaga Yoshimitsu
+    {
+        "name": "Daikyu",
+        "unitType": "Archery",
+        "replaces": "Crossbowman",
+        "uniqueTo": "Ashikaga Shogunate",
+        "movement": 2,
+        "strength": 16,
+        "rangedStrength": 14,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "promotions": ["Earns [Great Person Points] <from kills>",
+                       "[+1] Range <when stationed at a [Holy Site]>"],
+        "attackSound": "crossbow"
+    },
+    {
+        "name": "Teppo Aquebusier",
+        "unitType": "Gunpowder",
+        "replaces": "Musketman",
+        "uniqueTo": "Ashikaga Shogunate",
+        "movement": 2,
+        "strength": 24,
+        "cost": 150,
+        "requiredTech": "Physics",
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "promotions":["Accuracy I"],
+        "uniques":["[+35]% Combat Strength <vs [Naval] units>"],
+        "attackSound": "shot"
+    },
+  //Japan - Tokugawa Ieyasu
+    {
+        "name": "Samurai",
+        "unitType": "Sword",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Tokugawa Shogunate",
+        "movement": 2,
+        "strength": 21,
+        "cost": 120,
+        "requiredTech": "Steel",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Iron",
+        "promotions": ["Shock I", "Great Generals II"],
+        "uniques": ["Can build [Fishing Boats] improvements on tiles"],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Takegashima Musketeer",
+        "unitType": "Gunpowder",
+        "replaces": "Musketman",
+        "uniqueTo": "Tokugawa Shogunate",
+        "movement": 2,
+        "strength": 24,
+        "cost": 150,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "uniques": ["[+25]% Combat Strength <vs [Melee] units>",
+                    "[+10]% Combat Strength <vs [Sword] units>"],
+        "attackSound": "shot"
+    },
 ]
