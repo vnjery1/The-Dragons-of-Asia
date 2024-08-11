@@ -105,7 +105,7 @@
 
        "uniqueName":"Zhonghua Revival",
        "uniques":
-           ["Gain additional [Production] and [Culture] <for each [terrain], [feature] and [improvements] controlled by a city>. [Border growth] is doubled <during [Golden Ages]>"],
+           ["Gain additional [Production] and [Culture] <for each [terrain], [feature] and [improvements] controlled by a city>.", "[Border growth] is doubled <during [Golden Ages]>"],
        "cities": ["Guangzhou","Beijing","Taiyuan","Shanghai","Changsha","Nanjing","Chongqing","Shenyang","Chengdu","Wuhan","Taipei","Kaifeng","Suzhou","Guiyang","Xi'an","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang","Harbin","Uliastai","Fengtian","Xining"],
        "spyNames": ["Song","Huang","Cai","Li","Yang","Yin","Zhang","Wang","He","Qiu"],
   },
@@ -132,7 +132,7 @@
 
        "uniqueName":"The Long March",
        "uniques":
-           ["[Land] units generate [1] [Culture] per [tile] moved <in enemy territory>. Units below [33%] health receive [+1] [Movement] and [+2] [Movement] <when on [Hills] tile>"],
+           ["[Land] units generate [1] [Culture] per [tile] moved <in enemy territory>.", "Units below [33%] health receive [+1] [Movement] and [+2] [Movement] <when on [Hills] tile>"],
        "cities": ["Beijing","Shanghai","Tianjin","Chongqing","Guangzhou","Shenzhen","Wuhan","Chengdu","Dongguan","Nanjing","Harbin","Xi'an","Senyang","Linzi","Suzhou","Qingdao","Jinan","Zhengzhou","Hangzhou","Dalian","Kunming","Xiamen","Changchun","Nanning","Taiyuan","Hefei","Changzhou","Changsha","Wenzhou","Guiyang","Fuzhou","Shijiazhuang"],
   },
   //Japan - Ashikaga Yoshimitsu
@@ -159,7 +159,7 @@
 
        "uniqueName":"Five Mountains and Ten Monasteries",
        "uniques":
-           ["[Religious] buildings provide additional [Happiness], and are instantly constructed <in annexed cities> <if present in the [Capital]>. Receive a random [Faith] building <during a [Golden Age]>"],
+           ["[Religious] buildings provide additional [Happiness], and are instantly constructed <in annexed cities> <if present in the [Capital]>.","Receive a random [Faith] building <during a [Golden Age]>"],
        "cities": ["Kyoto","Kamakura","Nara","Dazaifu","Gifu","Echizen","Ise","Funai","Ashikaga","Izumo","Kawagoe","Nagano","Yamagata","Fukuhara","Tokushima","Otsu","Tottori","Kokura","Yamaguchi","Tomo","Kiyosu","Katsuyama","Sannohe","Matsumae"],
        "spyNames": ["Takauji","Katsumoto","Moronao","Yoshimasa","Yoriyuki","Masanaga","Masamoto","Takamitsu","Sesshu","Motokiyo"],
   },
@@ -214,7 +214,7 @@
 
        "uniqueName":"Imperial Reverence",
        "uniques":
-           ["[+20%] [Culture] and [Production] <during [Golden Ages]>. [Military] units trained <in a [Golden Age]> begins with [+15] [XP]."],
+           ["[+20%] [Culture] and [Production] <during [Golden Ages]>.","[Military] units trained <in a [Golden Age]> begins with [+15] [XP]."],
        "cities": ["Tokyo","Osaka","Kyoto","Nagoya","Kanazawa","Hiroshima","Yokohama","Wakayama","Sendai","Tokushima","Hagi","Shuri","Toyama","Kumamoto","Fukuoka","Kobe","Fukui","Kochi","Sakai","Akita","Matsue","Niigata","Takamatsu","Okayama","Shizuoka","Nagasaki","Hakodate","Kagoshima","Akamazeki","Amagasaki","Otaru","Kawasaki","Yokosuka","Sapporo","Sasebo","Kokura","Miyahara","Yahata"],
        "spyNames": ["Kido","Sakamoto","Saigo","Ogaki","Yodo","Kuroishi","Nobuko","Sachiko","Masako","Nakayama"],
   },
@@ -242,7 +242,7 @@
 
        "uniqueName":"Empire of the Pacific",
        "uniques":
-           ["Gains [Science] <for each [Coast] and [Ocean] tiles>, doubled <in annexed cities>. [+50%] [Production] <towards [Naval] units> <in annexed cities>."],
+           ["Gains [Science] <for each [Coast] and [Ocean] tiles>, doubled <in annexed cities>.","[+50%] [Production] <towards [Naval] units> <in annexed cities>."],
        "cities": ["Tokyo","Osaka","Kyoto","Nagoya","Kanazawa","Hiroshima","Yokohama","Wakayama","Sendai","Tokushima","Hagi","Shuri","Toyama","Kumamoto","Fukuoka","Kobe","Fukui","Kochi","Sakai","Akita","Matsue","Niigata","Takamatsu","Okayama","Shizuoka","Nagasaki","Hakodate","Kagoshima","Akamazeki","Amagasaki","Otaru","Kawasaki","Yokosuka","Sapporo","Sasebo","Kokura","Miyahara","Yahata"],
        "spyNames": ["Amleto","Wellington Roo","Kinoaki","Ma","Itagaki","Masahiko","Kenji","Sadao","Kingoro","Yasuhito"],
   },
@@ -270,7 +270,7 @@
 
        "uniqueName":"Eight Banners",
        "uniques":
-           ["[Land] units are randomly assigned with [Red Banner], [Blue Banner], [Yellow Banner], [White Banner], [Black Banner], [Pink Banner], [Green Banner] or [Purple Banner] promotions <upon their construction>. Units received additional [Combat Strength] and [Movement] <when beginning a turn adjacent to a unit of the same promotion>."],
+           ["[Land] units are randomly assigned with [Red Banner], [Blue Banner], [Yellow Banner], [White Banner], [Black Banner], [Pink Banner], [Green Banner] or [Purple Banner] promotions <upon their construction>.","Units received additional [Combat Strength] and [Movement] <when beginning a turn adjacent to a unit of the same promotion>."],
        "cities": ["Mukden","Harbin","Cangcon","Girin","Ningguta","Cicigar","Suniha","Yehe","Tuhe","Sarhu","Jamuhu","Hunehe","Sunggari","Akuri","Musi","Heseri","Giyaliku","Socoro","Hulun","Irkule","Erdun","Nurhan","Bektu","Cinggeri","Janggin","Kersun","Mongguri","Yengge","Silergi","Tanggiya","Ukuri","Supingkai","Boduna","Giyamusi"],
        "spyNames": ["Hong Taiji","Dorgon","Fulin","Xuanye","Yinzhen","Hongli","Yongyan","Minning","Oboi","Cixi"],
   },
@@ -298,7 +298,7 @@
 
        "uniqueName":"The Final Emperor",
        "uniques":
-           ["[Great Person]'s spawn rate <is increased> by [15%]. [Military] units received [+3] [Movement] <when beginning the turn on [Tundra] or [Hills] tiles>."],
+           ["[Great Person]'s spawn rate <is increased> by [15%].","[Military] units received [+3] [Movement] <when beginning the turn on [Tundra] or [Hills] tiles>."],
        "cities": ["Changchun","Mukden","Harbin","Shenyang","Dalian","Lüshunkuo","Yanbian","Jilin","Qiqihar","Jinzhou","Bei'an","Anshan","Gulian","Hailar","Manzhouli","Baicheng","Fushun","Jiamusi","Hegang","Siping","Yitulihe"],
   },
   //Manchuria - Nobusuke Kishi
