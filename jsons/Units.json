@@ -36,7 +36,7 @@
         "name": "Crouching Tiger",
         "replaces": "Cannon",
         "unitType": "Siege",
-        "uniquesTo": "Ming Dynasty",
+        "uniqueTo": "Ming Dynasty",
         "movement": 2,
         "strength": 30,
         "rangedStrength": 50,
