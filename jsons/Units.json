@@ -88,6 +88,37 @@
         ],
         "movement": 6
     },
+  //China - Republic
+    {
+        "name": "Tongmenghui",
+        "replaces": "Great War Infantry",
+        "uniqueTo": "Republic of China",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 50,
+        "cost": 330,
+        "requiredTech": "Replaceable Parts",
+        "upgradesTo": "Infantry",
+        "obsoleteTech": "Electronics",
+        "uniques": ["Gain [Great Person Points] <when in enemy territory> <by consuming this unit>",
+                    "[+20]% Strength bonus for [Military] units within [2] tile <vs cities>"],
+        "attackSound": "shot"
+    },
+  //China - People's Republic
+    {
+        "name": "Red Guard",
+        "replaces": "Rifleman",
+        "uniqueTo": "People's Republic of China",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 32,
+        "cost": 220,
+        "requiredTech": "Rifling",
+        "obsoleteTech": "Replaceable Parts",
+        "upgradesTo": "Great War Infantry",
+        "uniques":["Ignore maintenance cost <when garrisoned>"],
+        "attackSound": "shot"
+    },
   //Japan - Ashikaga Yoshimitsu
     {
         "name": "Daikyu",
