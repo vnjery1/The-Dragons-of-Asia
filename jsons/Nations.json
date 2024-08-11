@@ -270,8 +270,35 @@
 
        "uniqueName":"Eight Banners",
        "uniques":
-           ["[Land] units are randomly assigned with [Red Banner], [Blue Banner], [Yellow Banner], [White Banner], [Black Banner], [Pink Banner], [Green Banner] or [Banner] promotions <upon their construction>. Units received additional [Combat Strength] and [Movement] <when beginning a turn adjacent to a unit of the same promotion>."],
+           ["[Land] units are randomly assigned with [Red Banner], [Blue Banner], [Yellow Banner], [White Banner], [Black Banner], [Pink Banner], [Green Banner] or [Purple Banner] promotions <upon their construction>. Units received additional [Combat Strength] and [Movement] <when beginning a turn adjacent to a unit of the same promotion>."],
        "cities": ["Mukden","Harbin","Cangcon","Girin","Ningguta","Cicigar","Suniha","Yehe","Tuhe","Sarhu","Jamuhu","Hunehe","Sunggari","Akuri","Musi","Heseri","Giyaliku","Socoro","Hulun","Irkule","Erdun","Nurhan","Bektu","Cinggeri","Janggin","Kersun","Mongguri","Yengge","Silergi","Tanggiya","Ukuri","Supingkai","Boduna","Giyamusi"],
        "spyNames": ["Hong Taiji","Dorgon","Fulin","Xuanye","Yinzhen","Hongli","Yongyan","Minning","Oboi","Cixi"],
+  },
+  //Manchuria - Puyi
+   {
+       "name":"Wu Zhou Dynasty",
+       "leaderName":"Wu Zetian",
+       "adjectives":["Chinese - Wu Zhou"],
+       "startBias":["None"],
+       "preferredVictoryType":"Scientific",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"The Blessings of Heaven be upon you. Empress Wu Zetian, most beautiful and haughty ruler of China! Oh great Empress, whose shadow causes the flowers to blossom and the rivers to flow! You are the only empress of the Chinese, the oldest and the greatest civilization that humanity has ever produced. China's history stretches back into the mists of time, its people achieving many great things long before the other upstart civilizations were even conceived. China's contributions to the arts and sciences are too many and too wondrous to do justice to - the printing press, gunpowder, the works of Confucius - these are but a few of the gifts China has given to an undeserving world!",
+       "startIntroPart2":"You, great Empress, who, with cunning and beauty, rose from the position of lowly concubine to that of Divine Empress - your people call out to you to lead them! Great China is once again beset on all sides by barbarians. Can you defeat all your many foes and return your country to greatness? Can you build a civilisation that will stand the test of time?",
+
+       "introduction":"Salutations to you, I am Empress of all China, China is not something you can meddling with. We want peace, so do you.",
+       "declaringWar":"Oh, believe me, you won't ever be able to bother me one more time! Go meet Yama and say hi to him! Hahahaha!",
+       "attacking":"You fool! I will disembowel you all!",
+       "defeated":"Oh my, you have proven yourself to me that you are truly a cunning and competent advesary to China. Well, I congratulate you on your victory, but I assured you, China will risen again.",
+       "afterPeace":"Well, it seems there's no other options other than peace, oh well, guess it will be commenced.",
+       "tradeRequest":"Oh, friend of mine, what do you think of this request of trade?",
+
+       "outerColor":[202,20,21],
+       "innerColor":[247,216,1],
+
+       "uniqueName":"Art of War",
+       "uniques":
+           ["The [Great General] [combat bonus] <is increased> by [15%], and their [spawn rate] <is increased> by [50%]"],
+       "cities": ["Luoyang","Chang'an","Taiyuan","Jiaodong","Changsha","Longxi","Handan","Shenyang","Shanghai","Wuhan","Xiurong","Xingzhou","Yuyang","Linzi","Jiangzhou","Guangzhou","Tianjin","Suzhou","Hangzhou","Weifang"],
   },
 ]
