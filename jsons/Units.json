@@ -215,7 +215,7 @@
         "requiredTech": "Rifling",
         "obsoleteTech": "Replaceable Parts",
         "upgradesTo": "Great War Infantry",
-        "promotions": ["Blitz", "Quick Study","Ambush Formation I"],
+        "promotions": ["Blitz", "Quick Study"],
         "uniques": ["[+15]% Combat Strength <when fighting in [Foreign Land] tiles>"],
         "attackSound": "shot"
     },
