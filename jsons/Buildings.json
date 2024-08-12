@@ -120,5 +120,24 @@
         "requiredTech": "Navigation"
     },
   //Manchuria - Nobusuke Kishi
-    
+    {
+        "name": "Shōwa Seitetsusho",
+        "replaces": "Factory",
+        "uniqueTo": "Manshukoku",
+        "cost": 360,
+        "production": 5,
+        "percentStatBonus": {"production": 10},
+        "specialistSlots": {"Engineer": 2},
+        "requiredBuilding": "Workshop",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "requiredResource": "Steel",
+        "uniques": [
+            "Provides [1] [Factories]",
+            "Adopt [Ideology] <when above [2] [Factories]>",
+            "[+2 Gold] from [Rubber] tiles [in this city]",
+            "Can consuming [Worker] to hurry production"
+        ],
+        "requiredTech": "Industrialization"
+    },
 ]
