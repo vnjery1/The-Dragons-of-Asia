@@ -415,7 +415,7 @@
         "obsoleteTech": "Civil Service",
         "upgradesTo": "Pikeman",
         "uniques": ["[+50]% Strength <vs [Mounted] units>",
-                    "[+2 Sight] <while in friendly territory>",
+                    "[+2] Sight <while in friendly territory>",
                     "Gains [+15]% Combat Strength <for each enemy unit within [2] tiles>" ],
         "attackSound": "metalhit"
     },
