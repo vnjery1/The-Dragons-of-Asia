@@ -1,0 +1,124 @@
+[
+  //China - Qin
+  {
+        "name": "Academy of War",
+        "replaces": "Barracks",
+        "uniqueTo": "Qin Dynasty",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [15] Experience [in this city]",
+            "[+8] Science <when researching a [Military] technology>",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+  //China - Wu Zhou
+    {
+        "name": "Paper Maker",
+        "replaces": "Library",
+        "uniqueTo": "Wu Zhou Dynasty",
+        "hurryCostModifier": 25,
+        "gold": 2,
+        "uniques": ["[+1 Science] per [2] population [in this city]"],
+        "requiredTech": "Writing"
+    },
+  //China - Republic
+    {
+        "name": "Tong Lau",
+        "replaces": "Market",
+        "uniqueTo": "Republic of China",
+        "gold": 1,
+        "specialistSlots": {"Merchant": 1},
+        "hurryCostModifier": 25,
+        "percentStatBonus": {"gold": 25},
+        "uniques": [
+            "[+1 Gold] from [Land Trade Route (Gold)] tiles <in this city>",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles <in this city>",
+            "Gains [Golden Age] points <when a new [Citizen] is born>",
+            "Can be upgraded <after discovering [Electricity], providing [+2] extra Gold"
+        ],
+        "requiredTech": "Currency"
+    },
+  //Japan - Ashikaga Yoshimitsu
+  {
+        "name": "Ankoku-ji",
+        "replaces": "Courthouse",
+        "uniqueTo": "Ashikaga Shogunate",
+        "maintenance": 4,
+        "hurryCostModifier": 50,
+        "uniques": [
+            "Remove extra unhappiness from annexed cities",
+            "Can only be built <in [Annexed] cities>",
+            "Instantly constructed a [Holy site] <when construction an [Ankoku-ji]>"
+        ],
+        "requiredTech": "Mathematics"
+    },
+  //Japan - Tokugawa Ieyasu
+  {
+        "name": "Dojo",
+        "replaces": "Barracks",
+        "uniqueTo": "Tokugawa Shogunate",
+        "hurryCostModifier": 25,
+        "science": 2,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [15] Experience [in this city]",
+            "Destroyed when the city is captured",
+            "All newly-trained [Melee] units [in this city] receive the [Dojo] promotion"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+  //Japan - Hideki Tojo
+    {
+        "name": "Electronic Factory",
+        "replaces": "Factory",
+        "uniqueTo": "Great Empire of Japan",
+        "cost": 360,
+        "production": 4,
+        "percentStatBonus": {"production": 10},
+        "specialistSlots": {"Engineer": 2},
+        "requiredBuilding": "Workshop",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "requiredResource": "Steel",
+        "uniques": [
+            "Provides [1] [Factories]",
+            "Adopt [Ideology] <when above [2] [Factories]>",
+            "[+2 Gold] from [Rubber] tiles [in this city]",
+            "[+4] Culture <after discovering [Electricity]"
+        ],
+        "requiredTech": "Industrialization"
+    },
+  //Manchuria - Puyi
+    {
+        "name": "Mantetsu Station",
+        "replaces": "Stock Exchange",
+        "uniqueTo": "Manchuria",
+        "gold": 3,
+        "percentStatBonus": {"gold": 25},
+        "specialistSlots": {"Merchant": 2},
+        "hurryCostModifier": 15,
+        "requiredBuilding": "Bank",
+        "requiredTech": "Electricity"
+        "uniques": ["[+2 Gold] from [Railroads] [in this city]"],
+    },
+  {
+        "name": "Naval War College",
+        "replaces": "Seaport",
+        "uniqueTo": "Manchuria",
+        "hurryCostModifier": 25,
+        "maintenance": 3,
+        "requiredBuilding": "Harbor",
+        "uniques": [
+            "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+            "Must be next to [Coast]",
+            "[+15]% Production when constructing [Water] units [in this city]",
+            "[Naval] units trained [in this city] begin with double XP from [Buildings]",
+            "Provides a free [Arsenal] [in this city]"
+            ],
+        "requiredTech": "Navigation"
+    },
+  //Manchuria - Nobusuke Kishi
+    
+]
