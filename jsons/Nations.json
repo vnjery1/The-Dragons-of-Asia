@@ -383,6 +383,6 @@
        "uniques":
            ["Gain [Golden Age Points] <from [Specialist] and [Great Person Improvement]>.","Gain [+1] Science <from [Specialist] and [Great Person Improvement]> <during a [Golden Age]>","Receive a free tech <for every time a [Scientific] building, improvement or Wonder is constructed> <in the [Capital]>"],
        "cities": ["Hanseong","Pyongyang","Busan","Daegu","Jeonju","Jinju","Sangju","Kaesong","Taejo","Hamheung","Gongju","Gangneung","Chongjin","Kyongsong","Hwangju","Solme","Seorabeol","Hanyang","Jeollado","Anju","Hoseo","Tamna","Jemulpo","Busosanseong","Samseonghyeol"],
-       "spyNames": ["Hwang","Cheol","Seong-ryong","Uiin","Inmok","Sun-shin","Ui-gyeom","Hyowon","Rip","Il"
+       "spyNames": ["Hwang","Cheol","Seong-ryong","Uiin","Inmok","Sun-shin","Ui-gyeom","Hyowon","Rip","Il"],
   },
 ]
