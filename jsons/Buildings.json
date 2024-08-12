@@ -189,4 +189,17 @@
         ],
         "requiredTech": "Astronomy"
     },
+  //Korea - Sejong
+  {
+        "name": "Seowon",
+        "replaces": "University",
+        "uniqueTo": "Joseon",
+        "cost": 184,
+        "hurryCostModifier": 15,
+        "percentStatBonus": {"science": 33},
+        "specialistSlots": {"Scientist": 3},
+        "requiredBuilding": "Library",
+        "uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+        "requiredTech": "Education"
+    },
 ]
