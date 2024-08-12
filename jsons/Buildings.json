@@ -36,7 +36,22 @@
             "[+1 Gold] from [Land Trade Route (Gold)] tiles <in this city>",
             "[+1 Gold] from [Sea Trade Route (Gold)] tiles <in this city>",
             "Gains [Golden Age] points <when a new [Citizen] is born>",
-            "Can be upgraded <after discovering [Electricity]>, providing [+2] extra Gold"
+            "Can be upgraded to [Upgraded Tong Lau] <after discovering [Electricity]>"
+        ],
+        "requiredTech": "Currency"
+    },
+  {
+        "name": "Upgraded Tong Lau",
+        "replaces": "Market",
+        "uniqueTo": "Republic of China",
+        "gold": 5,
+        "specialistSlots": {"Merchant": 1},
+        "hurryCostModifier": 25,
+        "percentStatBonus": {"gold": 25},
+        "uniques": [
+            "[+1 Gold] from [Land Trade Route (Gold)] tiles <in this city>",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles <in this city>",
+            "Gains [Golden Age] points <when a new [Citizen] is born>",
         ],
         "requiredTech": "Currency"
     },
@@ -103,7 +118,7 @@
             "Provides [1] [Factories]",
             "Adopt [Ideology] <when above [2] [Factories]>",
             "[+2 Gold] from [Rubber] tiles [in this city]",
-            "[+4] Culture <after discovering [Electricity]"
+            "[+4] Culture <after discovering [Electricity]>"
         ],
         "requiredTech": "Industrialization"
     },
