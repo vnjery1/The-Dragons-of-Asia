@@ -36,7 +36,7 @@
             "[+1 Gold] from [Land Trade Route (Gold)] tiles <in this city>",
             "[+1 Gold] from [Sea Trade Route (Gold)] tiles <in this city>",
             "Gains [Golden Age] points <when a new [Citizen] is born>",
-            "Can be upgraded <after discovering [Electricity], providing [+2] extra Gold"
+            "Can be upgraded <after discovering [Electricity]>, providing [+2] extra Gold"
         ],
         "requiredTech": "Currency"
     },
@@ -53,6 +53,23 @@
             "Instantly constructed a [Holy site] <when construction an [Ankoku-ji]>"
         ],
         "requiredTech": "Mathematics"
+    },
+  //China - People's Republic
+    {
+        "name": "Great Hall of the People",
+        "replaces": "Amphitheater",
+        "uniqueTo": "People's Republic of China",
+        "isNationalWonder": true,
+        "culture": 5,
+        "requiredBuilding": "Monument",
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "[+3 Culture] after discovering [Civil Service]",
+            "[+10 Experience] for newly trained [Military] units"
+        ],
+        "requiredTech": "Drama and Poetry"
     },
   //Japan - Tokugawa Ieyasu
   {
