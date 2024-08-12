@@ -329,4 +329,32 @@
        "cities": ["Shinkyo","Hoten","Harubin","Tanto","Kitsurin","Anzan","Botanko","Chichiharu","Jamusu","Tsuka","Shihei","Shotoku","Jaranton","Suika","Tsuryo","Bujun","Eiko","Fushin","Hongeiko","Fukin","Sojo","Tonka","Tetsurei","Tonan","Fuyo","Kairin","Seian","Botsuri","Hairaru","Kokuga","Hokuan","Kanto"],
        "spyNames": ["Zheng","Zhang","Kosuke","Ryoko","Chuluunbold","Altantsetseg","Dorgon","Basinu","Kim","Park"],
   },
+  //Korea - Seondeok
+  {
+       "name":"Silla",
+       "leaderName":"Seondeok",
+       "adjectives":["Korean - Seondeok"],
+       "startBias":["Hills"],
+       "preferredVictoryType":"Scientific",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"The stars reveal good omens for you and your people, Queen Seondeok of Silla. With farsightedness and peerless acumen you led your people through the turbulent times that consumed the Korean peninsula during the 6th century AD. As Silla's first-ever queen regnant, you would ensure the her eventual preeminence as the ruler of the land of the morning calm through an alliance with the Tang dynasty. You would also promote an efflorescence of art, learning, and religion, patronizing the construction of many temples and pagodas, as well as that of Cheomseongdae, the tower of the moon and stars, the oldest observatory in the Orient.",
+       "startIntroPart2":"Most astute Queen, the alliances you established have faded from memory, and Silla's people starve for want of wisdom. They require a strong, perspicacious leader who will speak unto them the words of blessing written in the heavens. Can you be for Silla this queen once more? Can you build a civilization that will stand the test of time?",
+
+       "introduction":"I, Seondeok, acknowledged you. Our meeting was foreseen.",
+       "declaringWar":"The stars foretell me your defeat under my army. Heaven's tells can't be denied.",
+       "attacking":"I foresee that your defeat is swift and your nation will be a thing of the past.",
+       "defeated":"I foresaw my own end, but not that Silla would share my fate.",
+       "afterPeace":"The stars foretell me of peace, that I can't argue. Good thing that heaven saw that was devastating.",
+       "tradeRequest":"I want to trade with you, exchange between goods among us.",
+     
+       "outerColor":[115,27,41],
+       "innerColor":[135,181,170],
+
+       "uniqueName":"Path to Doricheon",
+       "uniques":
+           ["Researching [Technologies] provides [Influence] <with all met [City-states]>","[Academy] yield [Faith] <when worked>"],
+       "cities": ["Seorabeol","Yeomhae","Geungi","Namirimdong","Gijeo","Bulsa","Gumi","Yeodam","Horo","Juseon","Uyu","Cheongdo","Andong","Changnyeong","Pohang","Miryang","Ulsan","Sacheon","Sangju","Gyeongsan","Yeondeok","Cheolseong","Wiryeseong","Geoje","Uiseong","Yacheon","Uijin","Taebaek","Samcheok","Donghae","Wonju"],
+       "spyNames": ["Chunchu","Yusin","Beobmin","Jigwi","Alcheon","Cheonmyeong","Mishil","Manmyeong","Jindeok","Sohwa"],
+  },
 ]
