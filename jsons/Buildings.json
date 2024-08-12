@@ -172,4 +172,21 @@
         ],
         "requiredTech": "Industrialization"
     },
+  //Korea - Seondeok
+  {
+        "name": "Cheomseongdae",
+        "replaces": "Observatory",
+        "uniqueTo": "Silla",
+        "maintenance": 1,
+        "science": 1,
+        "faith": 2,
+        "hurryCostModifier": 15,
+        "requiredBuilding": "Library",
+        "uniques": [
+            "[+5 Science] from [Mountain] tiles [in this city]",
+            "[+1 Science] from [Tundra] tiles [in this city]",
+            "Converts [25]% of this city's [Faith] as [Great Scientist Points]"
+        ],
+        "requiredTech": "Astronomy"
+    },
 ]
