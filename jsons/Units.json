@@ -294,4 +294,112 @@
         ],
         "attackSound": "machinegun"
     },
+  //Manchuria - Nurhaci
+  {
+        "name": "Bannerman Cavalry",
+        "replaces": "Lancer",
+        "uniqueTo": "The Manchus",
+        "unitType": "Ranged",
+        "movement": 4,
+        "strength": 25,
+        "cost": 185,
+        "requiredTech": "Metallurgy",
+        "requiredResource": "Horses",
+        "promotions": ["Indirect Fire"],
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "Can attack twice <when beginning a turn adjacent to a [Military] unit with the same promotion>",
+            "[-33]% Strength <vs cities> <when attacking>",
+            "[+33]% Strength <vs [Armored] units>",
+            "[+33]% Strength <vs [Mounted] units>",
+            "Never appears as a Barbarian unit"
+        ],
+        "upgradesTo": "Anti-Tank Rifle",
+        "obsoleteTech": "Railroads",
+        "attackSound": "horse"
+    },
+    {
+        "name": "Green Standard",
+        "replaces": "Musketman",
+        "uniqueTo": "The Manchus",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 24,
+        "cost": 150,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Rifleman",
+        "obsoleteTech": "Rifling",
+        "promotions": ["Green Banner"],
+        "uniques": ["[+20]% cheaper <in cities with a [Courthouse]>",
+                    "[+15]% chance to convert enemy units"],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Qianlong Cavalry",
+        "replaces": "Cavalry",
+        "uniqueTo": "The Manchus",
+        "unitType": "Mounted",
+        "movement": 5,
+        "strength": 36,
+        "cost": 225,
+        "requiredTech": "Military Science",
+        "obsoleteTech": "Combustion",
+        "requiredResource": "Horses",
+        "upgradesTo": "Landship",
+        "promotions": ["Great Generals I"],
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "horse"
+    },
+  //Manchuria - Puyi
+    {
+        "name": "Provincial Guard",
+        "replaces": "Great War Infantry",
+        "uniqueTo": "Manchuria",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 50,
+        "cost": 330,
+        "promotions": ["Blitz"],
+        "uniques": ["[+15]% Combat Strength <vs [Gunpowder] units>",
+                    "[-10]% Combat Strength <vs [Armoured] units>"],
+        "requiredTech": "Replaceable Parts",
+        "upgradesTo": "Infantry",
+        "obsoleteTech": "Electronics",
+        "attackSound": "shot"
+    },
+    {
+        "name": "Fengtian Field Force",
+        "replaces": "Rifleman",
+        "uniqueTo": "Manchuria",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 33,
+        "cost": 225,
+        "requiredTech": "Rifling",
+        "obsoleteTech": "Replaceable Parts",
+        "upgradesTo": "Provincial Guard",
+        "uniques": ["Earns promotions [15]% faster <if it upgraded from a [Musketman]>"],
+        "attackSound": "shot"
+    },
+  //Manchuria - Nobusuke Kishi
+    {
+        "name": "Kantogun",
+        "replaces": "Great War Infantry",
+        "uniqueTo": "Manshukoku",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 50,
+        "cost": 330,
+        "promotions": ["Blitz"],
+        "uniques": ["Earns [100]% of a killed [Military] unit's [Strength] as [Science]"],
+        "requiredTech": "Replaceable Parts",
+        "upgradesTo": "Infantry",
+        "obsoleteTech": "Electronics",
+        "attackSound": "shot"
+    },
 ]
