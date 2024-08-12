@@ -357,4 +357,32 @@
        "cities": ["Seorabeol","Yeomhae","Geungi","Namirimdong","Gijeo","Bulsa","Gumi","Yeodam","Horo","Juseon","Uyu","Cheongdo","Andong","Changnyeong","Pohang","Miryang","Ulsan","Sacheon","Sangju","Gyeongsan","Yeondeok","Cheolseong","Wiryeseong","Geoje","Uiseong","Yacheon","Uijin","Taebaek","Samcheok","Donghae","Wonju"],
        "spyNames": ["Chunchu","Yusin","Beobmin","Jigwi","Alcheon","Cheonmyeong","Mishil","Manmyeong","Jindeok","Sohwa"],
   },
+  //Korea - Sejong
+  {
+       "name":"Joseon",
+       "leaderName":"Sejong",
+       "adjectives":["Korean - Sejong"],
+       "startBias":["Coast"],
+       "preferredVictoryType":"Scientific",
+       "favoredReligion":"Confucianism",
+
+       "startIntroPart1":"Greetings to you, exalted King Sejong the Great, servant to the people and protector of the Joseon Dynasty! Your glorious vision of prosperity and overwhelming benevolence towards the common man made you the most beloved of all Korean kings. From the earliest days of your reign, the effort you took to provide a fair and just society for all was surpassed only by the technological advances spurred onwards by your unquenched thirst for knowledge. Guided by your wisdom, the scholars of the Jade Hall developed Korea's first written language, Hangul, bringing the light of literature and science to the masses after centuries of literary darkness.",
+       "startIntroPart2":"Honorable Sejong, once more the people look to you for guidance. Will you rise to the occasion, bringing harmony and understanding to the people? Can you once again advance your kingdom's standing to such wondrous heights? Can you build a civilization that stands the test of time?",
+
+       "introduction":"Welcome to the court of Joseon, stranger. I am King Sejong Daewang, the one who learned. I look after my citizens with good will. I hope we will have a great discussion.",
+       "declaringWar":"The Jiphyeonjeon will no longer tolerate your irksome actions. We will liberate your citizens, even by force, and enlighten them, unlike you.",
+       "attacking":"You poor-minded, ignorant and miserable wrench. I will show you the magnificent science of Korea!",
+       "defeated":"The question now become who will protect my citizens against the evils when I'm gone. A dark era has come to Korea, thanks to you.",
+       "afterPeace":"How can this be possible? What strategy are you implementing here? But in that case, I will allow it.",
+       "tradeRequest":"Greetings,we have much to discuss and to benefit from each other.",
+     
+       "outerColor":[190,12,60],
+       "innerColor":[242,158,98],
+
+       "uniqueName":"Scholar of the Jade Hall",
+       "uniques":
+           ["Gain [Golden Age Points] <from [Specialist] and [Great Person Improvement]>.","Gain [+1] Science <from [Specialist] and [Great Person Improvement]> <during a [Golden Age]>","Receive a free tech <for every time a [Scientific] building, improvement or Wonder is constructed> <in the [Capital]>"],
+       "cities": ["Hanseong","Pyongyang","Busan","Daegu","Jeonju","Jinju","Sangju","Kaesong","Taejo","Hamheung","Gongju","Gangneung","Chongjin","Kyongsong","Hwangju","Solme","Seorabeol","Hanyang","Jeollado","Anju","Hoseo","Tamna","Jemulpo","Busosanseong","Samseonghyeol"],
+       "spyNames": ["Hwang","Cheol","Seong-ryong","Uiin","Inmok","Sun-shin","Ui-gyeom","Hyowon","Rip","Il"
+  },
 ]
