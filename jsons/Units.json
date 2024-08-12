@@ -402,4 +402,20 @@
         "obsoleteTech": "Electronics",
         "attackSound": "shot"
     },
+  //Korea - Seondeok
+    {
+        "name": "Sodong",
+        "replaces": "Spearman",
+        "uniqueTo": "Silla",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 11,
+        "cost": 56,
+        "requiredTech": "Bronze Working",
+        "obsoleteTech": "Civil Service",
+        "upgradesTo": "Pikeman",
+        "uniques": ["[+50]% Strength <vs [Mounted] units>"
+                    "],
+        "attackSound": "metalhit"
+    },
 ]
