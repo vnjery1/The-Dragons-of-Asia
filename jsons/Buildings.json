@@ -28,7 +28,7 @@
         "name": "Tong Lau",
         "replaces": "Market",
         "uniqueTo": "Republic of China",
-        "gold": 1,
+        "gold": 2,
         "specialistSlots": {"Merchant": 1},
         "hurryCostModifier": 25,
         "percentStatBonus": {"gold": 25},
