@@ -385,4 +385,31 @@
        "cities": ["Hanseong","Pyongyang","Busan","Daegu","Jeonju","Jinju","Sangju","Kaesong","Taejo","Hamheung","Gongju","Gangneung","Chongjin","Kyongsong","Hwangju","Solme","Seorabeol","Hanyang","Jeollado","Anju","Hoseo","Tamna","Jemulpo","Busosanseong","Samseonghyeol"],
        "spyNames": ["Hwang","Cheol","Seong-ryong","Uiin","Inmok","Sun-shin","Ui-gyeom","Hyowon","Rip","Il"],
   },
+  //Korea - Empire
+  {
+       "name":"Korean Empire",
+       "leaderName":"Gojong",
+       "adjectives":["Korean - Empire"],
+       "startBias":["Coast"],
+       "preferredVictoryType":"Diplomatic",
+       "favoredReligion":"Confucianism",
+
+       "startIntroPart1":"All of Korea is yours to command, illustrious and valorous Gojong! Having lived through the regency of a father, late did you assume governance of the rapidly crumbling Korean state. Undeterred by foreign threats and internal dangers, you and your beloved wife, Queen-Consort Min, embarked on a journey to bring Korea into the modern age, abolishing the class system, closing down the corrupt seowons, reforming the military, and establishing treaties with nations near and far. These reforms, however, were marred by the queen's grisly murder in 1895. In a final bid to save Korea from her enemies, you christened her an empire not two years later, a move that staved off her ultimate dissolution by a decade.",
+       "startIntroPart2":"O Gwangmu Emperor, Korea is once more besieged by false friends and true enemies. Can you steer the ship of state through these troubled waters? Can you bring enlightenment to a land long shrouded in darkness? Can you create a civilization that can stand the test of time?",
+
+       "introduction":"Korea welcomes you, foreign leader, as do I, Gojong, her emperor. I pray that relations between our empires may be cordial, if not harmonious.",
+       "declaringWar":"You and your actions made me decided to against you, foreign leader. Let the battles begin!",
+       "attacking":"You think Korea would back down? No, let's see if you can bend Korea's knee!",
+       "defeated":"How is it that this day has come to pass? I have given everything in my power and more to prevent its coming. Was it still not enough?",
+       "afterPeace":"Seems like you still have a mind. I'll accept your peace offer.",
+       "tradeRequest":"Greetings, foreign leader. Shall we trade between goods?",
+     
+       "outerColor":[190,188,167],
+       "innerColor":[105,84,5],
+
+       "uniqueName":"Enlightenment of the Land",
+       "uniques":
+           ["[Specialist] yield [+1] [Production] <for every [5] "],
+       "cities": ["Changchun","Mukden","Harbin","Shenyang","Dalian","Lüshunkuo","Yanbian","Jilin","Qiqihar","Jinzhou","Bei'an","Anshan","Gulian","Hailar","Manzhouli","Baicheng","Fushun","Jiamusi","Hegang","Siping","Yitulihe"],
+  },
 ]
