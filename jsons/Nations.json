@@ -411,7 +411,7 @@
        "uniques":
            ["[Specialist] yield [+1] [Production] <for every [5] [Land Trade Route] and [Sea Trade Route]> <in cities>.", "Exchanging [Embassy] or [Open Borders] with another civilization yield [Science] <for both parties>"],
        "cities": ["Hanseong","Pyongyang","Busan","Daegu","Jeonju","Kaesong","Jinju","Sangju","Taejo","Hamheung","Gongju","Gangneung","Chongjin","Kyongsong","Hwangju","Solme","Seorabeol","Hanyang","Jeollado","Anju","Hoseo","Tamna","Jemulpo","Busosanseong","Samseonghyeol"],
-       "spyNames": ["Euimin","Yeongseon","Uihwa","Otmar","Haewon","Haeung","Namyeon","Jayoung","Deokhye","Bohyeon","Sunheon"
+       "spyNames": ["Euimin","Yeongseon","Uihwa","Otmar","Haewon","Haeung","Namyeon","Jayoung","Deokhye","Bohyeon","Sunheon"],
   },
   //Korea - Democratic People's Republic
   {
