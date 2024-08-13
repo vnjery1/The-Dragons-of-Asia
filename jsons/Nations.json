@@ -409,7 +409,91 @@
 
        "uniqueName":"Enlightenment of the Land",
        "uniques":
-           ["[Specialist] yield [+1] [Production] <for every [5] "],
-       "cities": ["Changchun","Mukden","Harbin","Shenyang","Dalian","Lüshunkuo","Yanbian","Jilin","Qiqihar","Jinzhou","Bei'an","Anshan","Gulian","Hailar","Manzhouli","Baicheng","Fushun","Jiamusi","Hegang","Siping","Yitulihe"],
+           ["[Specialist] yield [+1] [Production] <for every [5] [Land Trade Route] and [Sea Trade Route]> <in cities>.", "Exchanging [Embassy] or [Open Borders] with another civilization yield [Science] <for both parties>"],
+       "cities": ["Hanseong","Pyongyang","Busan","Daegu","Jeonju","Kaesong","Jinju","Sangju","Taejo","Hamheung","Gongju","Gangneung","Chongjin","Kyongsong","Hwangju","Solme","Seorabeol","Hanyang","Jeollado","Anju","Hoseo","Tamna","Jemulpo","Busosanseong","Samseonghyeol"],
+       "spyNames": ["Euimin","Yeongseon","Uihwa","Otmar","Haewon","Haeung","Namyeon","Jayoung","Deokhye","Bohyeon","Sunheon"
   },
+  //Korea - Democratic People's Republic
+  {
+       "name":"Democratic People's Republic of Korea",
+       "leaderName":"Kim Il Sung",
+       "adjectives":["Korean - Democratic People's Republic"],
+       "startBias":["River"],
+       "preferredVictoryType":"Domination",
+
+       "startIntroPart1":"The Korean people bow before your presence, President Kim Il Sung. After years of fighting against Japanese imperialists, you emerged as the leader of communist controlled North Korea. Under your leadership, the Korean War was launched in an attempt to reunify the peninsula. However, the initially effective offensive was repelled and the post-war borders have remained to this day. After the wars aftermath, you developed the Juche ideology, stressing self-reliance and isolation, and formed a massive Cult of Personality surrounding yourself and your family. Your policies have remained the guiding principles for North Korea today and for your leadership, you are forever revered as the Eternal President.",
+       "startIntroPart2":"Great leader, your return is necessary for a revival in Korea's glory. Can you defend the nation from imperialists and foreign exploitation? Can you foment undying loyalty throughout your populace? Can you build a civilization that will stand the test of time?",
+
+       "introduction":"Greetings comrade. I am Kim il-Sung, president of the Korean people. I am a firm believer in men's control over his destiny. I wonder if ours will cross...",
+       "declaringWar":"Your words made me shook my head, we are now not comrades, but adversaries!",
+       "attacking":"Be careful what you wished for, because you wouldn't expect what we expected!",
+       "defeated":"The Korean people's revolution must go on without me...",
+       "afterPeace":"I see... Sure, we will sign, but be aware, because we wouldn't forget about this.",
+       "tradeRequest":"Comrades, shall we exchange goods? We got you the best deal we have at the moment.",
+     
+       "outerColor":[5,17,43],
+       "innerColor":[188,63,35],
+
+       "uniqueName":"Military First Policy",
+       "uniques":
+           ["[Infantry] units, [Gunpowder] units, and [Archery] units are trained [25]% faster <in all cities>.","Buildings that isn't built in the [Capital] is [15]% slower <in cities that is not the [Capital]>","The [Capital] receives [+1] Happiness and [+1] Culture <for 5 [Military] units that [Korea - Democratic People's Republic] posseses>"],
+       "cities": ["Pyongyang","Hamhung","Chongjin","Nampo","Wonsan","Tanchon","Sinuiju","Kaechon","Kaesong","Sunchon","Sariwon","Pyongsong","Kanggye","Anju","Haeju","Kimchaek","Hyesan","Chongju","Hoeryong","Kusong","Manpo","Munchon","Rason","Sinpo","Songrim"],
+       "spyNames": ["Kim","Park","Han","Na","Kong","Yu","Ahn","Na","Da","Eun"],
+  },
+  //Korea - First Republic
+  {
+       "name":"First Republic of Korea",
+       "leaderName":"Rhee Syngman",
+       "adjectives":["Korean - Republic"],
+       "startBias":["River"],
+       "preferredVictoryType":"Domination",
+       "favoredReligion":"Methodism",
+
+       "startIntroPart1":"",
+       "startIntroPart2":"",
+
+       "introduction":"Greetings leader, and welcome to the Republic of Korea, a place of great economic prosperity.",
+       "declaringWar":"It seems our path is at a crossroad. I may don't have the personnel, but I have strategies, tactics and experiences!",
+       "attacking":"That will be a mistake you've thought of. I will bring my army and see if you can handle them all.",
+       "defeated":"A shrimp between whales, yet again... does it ever end? Well, whatever, it is not as if your fight for Korea is anywhere near finished, or as if it will ever be.",
+       "afterPeace":"An eye for an eye to understand the peace will bring prosper for both of us. And that, I will allow it.",
+       "tradeRequest":"Hey leader, do you want to trade?",
+     
+       "outerColor":[232,226,204],
+       "innerColor":[2,43,109],
+
+       "uniqueName":"Independence Through Sheer Force",
+       "uniques":
+           ["[Infantry] units are trained [15]% faster <in cities with [Barracks]>","Earns [100]% of killed [Military] unit's [Strength] as [Science]"],
+       "cities": ["Seoul","Busan","Incheon","Daegu","Daejeon","Gwangju","Ulsan","Suwon","Changwon","Goyang","Seongnam","Yongin","Bucheon","Ansan","Cheongju","Jeonju","Namyangju","Anyang","Cheonan","Hwaseong","Pohang","Gimhae","Uijeongbu","Pyeongatek","Jeju","Gumi","Siheung","Paju","Gwangmyeong","Jinju","Wonju","Iksan","Yeosu","Gunpo","Gunsan","Asan","Chuncheon","Suncheon","Yangsan"],
+       "spyNames": ["Kim","Park","Han","Na","Kong","Yu","Ahn","Na","Da","Eun"],
+  },
+  //Korea - Sixth Republic
+  {
+       "name":"Sixth Republic of Korea",
+       "leaderName":"Kim Dae-jung",
+       "adjectives":["Manchurian - Puyi"],
+       "startBias":["River"],
+       "preferredVictoryType":"Cultural",
+       "favoredReligion":"Catholicism",
+
+       "startIntroPart1":"Hail, Kim Dae-Jung, president of the people of free Korea, for the Blue House awaits your arrival after your long struggle for justice. Korea is a proud nation, the culture of the peninsula, its mountains and bays and great cities, thriving against all odds, as hungry powers from the west, east, and north all looked on Korean lands with envy. Still, your home lies split in two, every Korean from Baekdu to Bukhan forced to live under the yoke of a king of torture and deceit. For a time, so were the southern lands, until you led the people in their cry for freedom. Now democratic at last, you must guide the south through the trials of this world, and indeed, with its often-admired industry and fearsome cultural power, your people are as prepared as can be.",
+       "startIntroPart2":"Mr President, the tasks ahead are numerous, but they are not impossible. Korea has come so far; a strong, independent, thriving Korea, free from all division imposed by outsiders, is in your grasp. Can you achieve the dream at last? Can you build a civilisation that stands the test of time?",
+
+       "introduction":"Free Korea welcomes you, whoever you may be. I am this country's president, and I sincerely hope our relationship will lead to peace and prosperity for us both.",
+       "declaringWar":"I have to declare war on you, you made a bad example to this world, and you should be eradicated!",
+       "attacking":"That threat can't stop progression of Korea! I will show you that Korea can against its threats!",
+       "defeated":"How has my country fallen? We were proud and strong - you have taken that away from the world.",
+       "afterPeace":"Finally, you have come for your senses. I am happy that we made peace today.",
+       "tradeRequest":"Hey, you want something that satisfy you here? We got this deal for you right here.",
+     
+       "outerColor":[1,15,86],
+       "innerColor":[64,173,121],
+
+       "uniqueName":"March for the Beloved",
+       "uniques":
+           ["Receive a [Population] bonus <when capturing and holding an enemy city>","[+5] Culture <for annexed cities>","Receive the best [Military] unit available <for annexed cities with [≥2] Population>", "Instantly heal <for annexed cities with [≥3] Population>", "Receive an extra [Defensive] building <for annexed cities with [≥4] Population>"],
+       "cities": ["Seoul","Gwangju","Busan","Daegu","Incheon","Daejeon","Changwon","Ulsan","Suwon","Cheongju","Jeonju","Chuncheon","Jeju City","Seongnam","Iksan","Pohang","Goyang","Yeosu","Cheonan","Bucheon","Gunsan","Gumi","Anyang","Suncheon","Jinju","Ansan","Mokpo","Gimhae","Yongin","Haui"],
+       "spyNames": ["Yi","Choi","Kang","Jang","Shin","Lee","Jeong","Yun","Im","Yu"],
+ },
 ]
