@@ -496,4 +496,32 @@
        "cities": ["Seoul","Gwangju","Busan","Daegu","Incheon","Daejeon","Changwon","Ulsan","Suwon","Cheongju","Jeonju","Chuncheon","Jeju City","Seongnam","Iksan","Pohang","Goyang","Yeosu","Cheonan","Bucheon","Gunsan","Gumi","Anyang","Suncheon","Jinju","Ansan","Mokpo","Gimhae","Yongin","Haui"],
        "spyNames": ["Yi","Choi","Kang","Jang","Shin","Lee","Jeong","Yun","Im","Yu"],
  },
+  //Vietnam - Tran Dynasty
+    {
+       "name":"Dai Viet",
+       "leaderName":"Tran Thanh Tong",
+       "adjectives":["Vietnamese - Tran Dynasty"],
+       "startBias":["River","Avoid [Tundra]","Avoid [Desert]"],
+       "preferredVictoryType":"Scientific",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"Heaven's fortunes be upon you Tran Thanh Tong. You inherited your father's Empire, his legacy, and his enemies. The Mongols controlled China to the north and looked greedily towards your lands. They came three times. Each you, your brother, and the noble Viet people fended them off. But winning wars against great odds was not the only feat you achieved. You built up the grand citadels of Thang Long, Thanh Hoa, and Thanh Dong. You patronised the arts and sciences, bringing Dai Viet into a new age of prosperity and even introducing the first exclusively Viet written language allowing your court to write in its own way rather than that of China. The Tran dynasty would rule on in prosperity from the foundations you built and feats you achieved.",
+       "startIntroPart2":"Great Tran Thanh Tong, the Viets call to you once more. Will you answer them and fend off the empires at the gates and be a champion of science and culture once more? Can you build an empire to stand the test of time?",
+
+       "introduction":"The mist parts and I greet you friend. Welcome to Dai Viet, a realm born of Dragons and Fairies. I am it's ruler Tran Thanh Tong.",
+       "declaringWar":"",
+       "attacking":"",
+       "defeated":"You have fell my empire. You have killed my soldiers. And for what? The Viet people will remember. They will rise up again, as they have done in past. This is a shallow victory, you should enjoy it while you can.",
+       "afterPeace":"",
+       "tradeRequest":"",
+     
+       "outerColor":[33,65,52],
+       "innerColor":[214,216,107],
+
+       "uniqueName":"Dance of Flowers",
+       "uniques":
+           ["[Mounted] units gain defensive terrain bonus","[Science] building gains [Culture] bonus <when constructing>","[Culture] building gains [Science] bonus <when constructing>"],
+       "cities": ["Thang Long","Thanh Hoa","Bac Giang","Thanh Dong","Hai Phong","Thai Nguyen","Bac Ninh","Thai Binh","Phu Xuan","Ha Tinh","Tien Dien","Ninh Binh","Duong Lam","Cao Bang","Dong Hoi","Ha Long","Hung Yen","Yen Bai","Son Tay","Tuyen Quang","Hong Linh","Hoa Binh","Chi Linh","Phuc Yen","Dong Ha","Son La","Lao Cai","Ha Giang","Cao Bang",'Lang Son","Cam Pha","Phu Ly","Thai Hoa","Hoang Mai","Sam Son","Tu Son","Hong Ky","Dong Lac","Trung Hoa","An Khai","Gia Dong","Phu Cuong","Quang Tri","Quang Dong","Hong Linh","Nghi Van","Bim Son","Hoi An"],
+       "spyNames": ["Tu Lo","Man Giac","Dieu Nhan","Chan Khong","Ngo An","Vien Chieu","Cuu Chi","Van Hanh","Khuong Viet","Phap Thuan"],
+  },
 ]
