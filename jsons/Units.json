@@ -533,7 +533,7 @@
             "Never appears as a Barbarian unit",
             "[+25]% Strength <vs [Military] units> <in [Forest] and [Jungle] tiles>"
         ],
-        "upgradesTo": "Anti-Tank Rifle",
+        "upgradesTo": "Musketman",
         "obsoleteTech": "Railroads",
         "attackSound": "horse"
     },
@@ -560,7 +560,8 @@
         "attackSound": "horse"
     },
     {
-        "name": "Composite Bowman",
+        "name": "Cung Thu Quan",
+        "replaces": "Composite Bowman",
         "unitType": "Archery",
         "movement": 2,
         "strength": 7,
