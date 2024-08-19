@@ -498,7 +498,7 @@
  },
   //Vietnam - Ly Dynasty
   {
-       "name":"Dai Viet",
+       "name":"Dai Co Viet",
        "leaderName":"Ly Thai To (Ly Cong Uan)",
        "adjectives":["Vietnamese - Ly Dynasty"],
        "startBias":["River"],
@@ -525,7 +525,7 @@
   },
   //Vietnam - Tran Dynasty
     {
-       "name":"Dai Viet",
+       "name":"Dai Viet - Tran Dynasty",
        "leaderName":"Tran Thanh Tong",
        "adjectives":["Vietnamese - Tran Dynasty"],
        "startBias":["River","Avoid [Tundra]","Avoid [Desert]"],
@@ -553,7 +553,7 @@
   },
   //Vietnam - Later Le Dynasty (Le So Dynasty)
   {
-       "name":"Dai Viet",
+       "name":"Dai Viet - Later Le Dynasty",
        "leaderName":"Le Loi",
        "adjectives":["Vietnamese - Le So Dynasty"],
        "startBias":["River"],
