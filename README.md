@@ -1,14 +1,14 @@
 # The-Dragons-of-Asia
-An Unciv Mod of a Series of Mods and this one will focus on: China (Wu Zetian, Ming Yongle, Qin Shi Huang, Sun Yat-sen, Mao Zedong), Korea (Sejong, Seondeok, Kim Il Song, Rhee Syngman), Japan (Ashikaga Yoshimitsu, Tokugawa Ieyasu, Meiji, Hideki Tojo), Manchuria (Nurhaci, Puyi, Nobusuke Kishi), Vietnam (Tran Thanh Tong, Le Loi, Quang Trung, Ho Chi Minh, Ngo Dinh Diem)
+An Unciv Mod of a Series of Mods and this one will focus on: China (Wu Zetian, Ming Yongle, Qin Shi Huang, Sun Yat-sen, Mao Zedong), Korea (Sejong, Seondeok, Kim Il Song, Rhee Syngman, Kim Dae-jung), Japan (Ashikaga Yoshimitsu, Tokugawa Ieyasu, Meiji, Hideki Tojo), Manchuria (Nurhaci, Puyi, Nobusuke Kishi), Vietnam (Tran Thanh Tong, Le Loi, Quang Trung, Ho Chi Minh, Ngo Dinh Diem)
 
 # The-VNJERY1-SERIES
 It will include:
-  - The Dragons of Asia (China, Korea, Japan, Manchuria, Vietnam, Xinjiang) (WIP)
+  - The Dragons of Asia (China, Korea, Japan, Manchuria, Vietnam,...) (WIP)
   - The Golden Gates (Champa, Cambodia, Laos, Thailand, Myanmar)
   - The Way of the Trade (Malacca, Johor, Singapore, Aceh, Srivijaya, Banten)
   - The East Indies (Sarawak, Philippines, Brunei, Sulu, Banjar, Indonesia, Vereenigde Oost-Indische Compagnie, Tidore, Companhia Portuguesa das Índias Orientais, British East Indies)
-  - The Southern Ends (Sri Lanka, Travancore, Karnatak, Cochin, Mysore, Chola)
-  - The Central Kings (Hyderabad, Vijayanagar, Kutch, Junagadh)
+  - The Southern Ends (Sri Lanka, Travancore, Karnatak, Mysore, Chola)
+  - The Kings of the Deccan (Hyderabad, Vijayanagar, Andhra, Odisha)
   - The Tigers of Asia (Mughals, India, Sindh, Pakistan, Kashmir, Bengal, Bangladesh)
   - The Peace Among All (Tibet, Nepal, Bhutan)
   - The Lands of the Khans (Mongolia, Kazakhstan, Bukhara, Khiva, Kokand, Yettishar, Kokonur, Uzbekistan)
