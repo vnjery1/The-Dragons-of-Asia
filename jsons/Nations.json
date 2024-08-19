@@ -496,6 +496,33 @@
        "cities": ["Seoul","Gwangju","Busan","Daegu","Incheon","Daejeon","Changwon","Ulsan","Suwon","Cheongju","Jeonju","Chuncheon","Jeju City","Seongnam","Iksan","Pohang","Goyang","Yeosu","Cheonan","Bucheon","Gunsan","Gumi","Anyang","Suncheon","Jinju","Ansan","Mokpo","Gimhae","Yongin","Haui"],
        "spyNames": ["Yi","Choi","Kang","Jang","Shin","Lee","Jeong","Yun","Im","Yu"],
  },
+  //Vietnam - Ly Dynasty
+  {
+       "name":"Dai Viet",
+       "leaderName":"Ly Thai To (Ly Cong Uan)",
+       "adjectives":["Vietnamese - Ly Dynasty"],
+       "startBias":["River"],
+       "preferredVictoryType":"Domination",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"",
+       "startIntroPart2":"",
+
+       "introduction":"Welcome to Manchuria, I am Emperor Puyi, the last monarch of China, and I saw you have potential to become our ally.",
+       "declaringWar":"I couldn't believe what you did! You and me are no longer potential allies, but enemies!",
+       "attacking":"You think I would be scared for that? Although I am, I would still fight against you! Be ready!",
+       "defeated":"It seems that... I lost... Well, guess now, I am but a normal man.",
+       "afterPeace":"Peace? Oh really? That's great, I am bored of this war already.",
+       "tradeRequest":"Hey, I offer you my trade request. Is it good enough for you?",
+     
+       "outerColor":[225,175,42],
+       "innerColor":[20,55,95],
+
+       "uniqueName":"Nam Quoc Son Ha",
+       "uniques":
+           ["Recieves [Culture] <when attacking cities>","[Sword], [Melee] and [Cavalry] units recieves [+15] XP <when constructed in cities with [Barracks]>"],
+       "cities": ["Co Loa","Thang Long","Thanh Hoa","Bac Giang","Thanh Dong","Hai Phong","Thai Nguyen","My Linh","Bac Ninh","Thai Binh","Phu Xuan","Ha Tinh","Tien Dien","Ninh Binh","Duong Lam","Cao Bang","Dong Hoi","Ha Long","Hung Yen","Yen Bai","Son Tay","Tuyen Quang","Hong Linh","Hoa Binh","Chi Linh","Phuc Yen","Dong Ha","Son La","Lao Cai","Ha Giang","Cao Bang","Lang Son","Cam Pha","Phu Ly","Thai Hoa","Hoang Mai","Sam Son","Tu Son","Hong Ky","Dong Lac","Trung Hoa","An Khai","Gia Dong","Phu Cuong","Quang Tri","Quang Dong","Hong Linh","Nghi Van","Bim Son","Hoi An"],
+  },
   //Vietnam - Tran Dynasty
     {
        "name":"Dai Viet",
@@ -509,11 +536,11 @@
        "startIntroPart2":"Great Tran Thanh Tong, the Viets call to you once more. Will you answer them and fend off the empires at the gates and be a champion of science and culture once more? Can you build an empire to stand the test of time?",
 
        "introduction":"The mist parts and I greet you friend. Welcome to Dai Viet, a realm born of Dragons and Fairies. I am it's ruler Tran Thanh Tong.",
-       "declaringWar":"",
-       "attacking":"",
+       "declaringWar":"You and your ambitions know no limits! I will brought you to your fitting with force! Just wait you ignorant!",
+       "attacking":"I will make sure you will regret this! Prepare to be amazed!",
        "defeated":"You have fell my empire. You have killed my soldiers. And for what? The Viet people will remember. They will rise up again, as they have done in past. This is a shallow victory, you should enjoy it while you can.",
-       "afterPeace":"",
-       "tradeRequest":"",
+       "afterPeace":"Seems like you have a change of mind? Well, we preferred peace so we accept but next time won't be the same.",
+       "tradeRequest":"We Viets want to trade with you. Is this deal suitable for your view?",
      
        "outerColor":[33,65,52],
        "innerColor":[214,216,107],
@@ -521,7 +548,117 @@
        "uniqueName":"Dance of Flowers",
        "uniques":
            ["[Mounted] units gain defensive terrain bonus","[Science] building gains [Culture] bonus <when constructing>","[Culture] building gains [Science] bonus <when constructing>"],
-       "cities": ["Thang Long","Thanh Hoa","Bac Giang","Thanh Dong","Hai Phong","Thai Nguyen","Bac Ninh","Thai Binh","Phu Xuan","Ha Tinh","Tien Dien","Ninh Binh","Duong Lam","Cao Bang","Dong Hoi","Ha Long","Hung Yen","Yen Bai","Son Tay","Tuyen Quang","Hong Linh","Hoa Binh","Chi Linh","Phuc Yen","Dong Ha","Son La","Lao Cai","Ha Giang","Cao Bang",'Lang Son","Cam Pha","Phu Ly","Thai Hoa","Hoang Mai","Sam Son","Tu Son","Hong Ky","Dong Lac","Trung Hoa","An Khai","Gia Dong","Phu Cuong","Quang Tri","Quang Dong","Hong Linh","Nghi Van","Bim Son","Hoi An"],
+       "cities": ["Thang Long","Thanh Hoa","Bac Giang","Thanh Dong","Hai Phong","Thai Nguyen","Bac Ninh","Thai Binh","Phu Xuan","Ha Tinh","Tien Dien","Ninh Binh","Duong Lam","Cao Bang","Dong Hoi","Ha Long","Hung Yen","Yen Bai","Son Tay","Tuyen Quang","Hong Linh","Hoa Binh","Chi Linh","Phuc Yen","Dong Ha","Son La","Lao Cai","Ha Giang","Cao Bang","Lang Son","Cam Pha","Phu Ly","Thai Hoa","Hoang Mai","Sam Son","Tu Son","Hong Ky","Dong Lac","Trung Hoa","An Khai","Gia Dong","Phu Cuong","Quang Tri","Quang Dong","Hong Linh","Nghi Van","Bim Son","Hoi An"],
        "spyNames": ["Tu Lo","Man Giac","Dieu Nhan","Chan Khong","Ngo An","Vien Chieu","Cuu Chi","Van Hanh","Khuong Viet","Phap Thuan"],
+  },
+  //Vietnam - Later Le Dynasty (Le So Dynasty)
+  {
+       "name":"Dai Viet",
+       "leaderName":"Le Loi",
+       "adjectives":["Vietnamese - Le So Dynasty"],
+       "startBias":["River"],
+       "preferredVictoryType":"Domination",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"Hail Le Loi, great hero of the Vietnamese people and founder of the Le Dynasty! You led the people of the Vietnamese countryside in an uprising that would throw off the violent oppression foisted upon them by the Ming Empire. After many battles, over 10 years, you restored the sovereignty of Dai Viet. Though you reigned as King for only five years, during your rule you greatly improved the lives of your people with improvements to infrastructure and rewards to those who fought for Vietnamese independence. In the end, it was illness that ended your reign. Since then you have been revered as a legendary leader by the people of Vietnam.",
+       "startIntroPart2":"The time has come for Dai Viet to carve out a land for herself once again. Great leader, will you rally your people once again and lead them to greatness? With your sword from the Golden Turtle, will you cut down those who would do you harm? Will you build a civilization that will stand the test of time?",
+
+       "introduction":"Entering the lands of Dai Viet is truly surreal for a man. Welcome, and I, Le Loi, will open my hands to greet you for the first time.",
+       "declaringWar":"Your ambitions are off limit, yet you couldn't control it, don't you? Let me handle it for you.",
+       "attacking":"Hah, your words are nothing but words. Let's go to the battlefield to see who is better!",
+       "defeated":"One failed step of mine is one step for generations after me to succeed. You are not eternal, so mark my words.",
+       "afterPeace":"What a battle! I gotta said, your skills on the battlefield are great, but now, it is time for peace. Hope to see you later, not as enemies to each other, but friends.",
+       "tradeRequest":"I, Le Loi, wants to trade with you. Is that good for you?",
+     
+       "outerColor":[203,184,45],
+       "innerColor":[68,14,48],
+
+       "uniqueName":"Battle of Chi Lang",
+       "uniques":
+           ["Earn a free [Great General] <when constructing a Wonder>.","[Military] units receives [+5]% Combat Strength <when embarking>","[Sword] units receives [+5]% Combat Strength <vs [Military] units> <when beginning a turn adjacent to a [Mountain] tile>"],
+       "cities": ["Thang Long","Thanh Hoa","Bac Giang","Thanh Dong","Hai Phong","Thai Nguyen","Bac Ninh","Thai Binh","Phu Xuan","Ha Tinh","Tien Dien","Ninh Binh","Duong Lam","Cao Bang","Dong Hoi","Ha Long","Hung Yen","Yen Bai","Son Tay","Tuyen Quang","Hong Linh","Hoa Binh","Chi Linh","Phuc Yen","Dong Ha","Son La","Lao Cai","Ha Giang","Cao Bang","Lang Son","Cam Pha","Phu Ly","Thai Hoa","Hoang Mai","Sam Son","Tu Son","Hong Ky","Dong Lac","Trung Hoa","An Khai","Gia Dong","Phu Cuong","Quang Tri","Quang Dong","Hong Linh","Nghi Van","Bim Son","Hoi An"],
+  },
+  //Vietnam - Nguyen Dynasty
+  {
+       "name":"Dai Nam",
+       "leaderName":"Nguyen Phuc Dam (Minh Mang)",
+       "adjectives":["Vietnamese - Nguyen Dynasty"],
+       "startBias":["None"],
+       "preferredVictoryType":"Cultural",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"",
+       "startIntroPart2":"",
+
+       "introduction":"Dai Nam welcomes you, I am Minh Mang, Emperor of Dai Nam, and I see that we met for the first time.",
+       "declaringWar":"Your actions made me sick of you! Get out, and I will see you on the battlefield!",
+       "attacking":"Ridiculous! Frivolous! What an audacity! I'll see you if you can fly to heaven to bring a dragon down!",
+       "defeated":"How... how... how?! O heaven and earth, what have I done to deserve this fate! What have I done?! You will know we Viets will prevail forever and ever!",
+       "afterPeace":"Offer of peace accepted, for I will commence it. Brilliant of you to offer peace to end this senseless conflict between us leaders.",
+       "tradeRequest":"We offer you the offer of trade to you. Is it delectable for you?",
+     
+       "outerColor":[85,28,43],
+       "innerColor":[203,192,130],
+
+       "uniqueName":"Be Quan Toa Cang",
+       "uniques":
+           ["Can't train [Caravan], [Great Merchant]", "[+5] Culture <when constructing [University]>","[+15] Culture <when constructing [Academy]","[Military] units receives [-15] Combat Strength <vs [Military] units> <when beginning a turn adjacent to a [Coast] tile>"],
+       "cities": ["Phu Xuan","Thang Long","Thanh Hoa","Bac Giang","Thanh Dong","Hai Phong","Thai Nguyen","Bac Ninh","Thai Binh","Thua Thien","Ha Tinh","Tien Dien","Ninh Binh","Duong Lam","Cao Bang","Dong Hoi","Ha Long","Hung Yen","Yen Bai","Son Tay","Tuyen Quang","Hong Linh","Hoa Binh","Chi Linh","Phuc Yen","Dong Ha","Son La","Lao Cai","Ha Giang","Cao Bang","Lang Son","Cam Pha","Phu Ly","Thai Hoa","Hoang Mai","Sam Son","Tu Son","Hong Ky","Dong Lac","Trung Hoa","An Khai","Gia Dong","Phu Cuong","Quang Tri","Quang Dong","Hong Linh","Nghi Van","Bim Son","Hoi An"],
+  },
+  //Vietnam - Socialist Republic
+  {
+       "name":"Socialist Republic of Vietnam",
+       "leaderName":"Ho Chi Minh",
+       "adjectives":["Vietnamese - Socialist Republic"],
+       "startBias":["Jungle"],
+       "preferredVictoryType":"Diplomatic",
+       "favoredReligion":"Buddhism",
+
+       "startIntroPart1":"Greetings, comrade Ho Chi Minh, great leader of Vietnam. You pioneered the cause for Vietnamese independence from imperial forces, and fought hard for your cause. You are best known for overseeing the textbook case for guerella warfare; a brutal yet subtle campaign against the country you once idolised. While you did not live to see victory, your role in driving the Vietnamese people is inarguable and your pursuit of a socialism independent of the ideologies of China and the Soviets succeeded.",
+       "startIntroPart2":"Dear Uncle, your people clamour for your return. Will you place your people into your heart once more? Will you overcome the oppressors surrounding Vietnam, to establish a free and independent nation? Will you build a civilization to stand the test of time?",
+
+       "introduction":"Welcome to Vietnam, the land where the locals fought for independence. Introduce yourself, and then, we will have some  tea.",
+       "declaringWar":"I will declare war on you, I saw your ambitions are not intended for good. Prepare for the war, my adversary.",
+       "attacking":"I can sense that this act is to bring Vietnam back to its chains. Well, we will be ready to fight, we won't be afraid of you, tyrant.",
+       "defeated":"Even if the rocks eroded away, the rivers dried up and the seas is gone, but the spirits of us Vietnamese won't be suppressed, and we will rise again.",
+       "afterPeace":"I see that you want peace? Me too. We do not want to have this war anyway.",
+       "tradeRequest":"Can we talk about trade? How about this deal? Is it good?",
+     
+       "outerColor":[133,27,39],
+       "innerColor":[225,156,53],
+
+       "uniqueName":"Truong Son Trail",
+       "uniques":
+           ["[Military] units can use [Roads] and [Railroads] <when in enemy territory>.","[Great General] can construct [Roads] <when in [Jungle], [Forest], or [Hills] tiles>"],
+       "cities": ["Hanoi","Saigon","Hai Phong","Da Nang","Can Tho","Bien Hoa","Nha Trang","Vinh","Hai Duong","Hue","Da Lat","Buon Ma Thuot","Thai Nguyen","Vung Tau","Quy Nhon","Long Xuyen","Viet Tri","Bac Ninh","Thu Dau Mot","Thai Binh","Phan Thiet","Rach Gia","Tam Ky","My Tho","Ca Mau","Ha Long","Thanh Hoa","Cam Pha","Nam Dinh","Bac Liue","Pleiku","Soc Trang","Tuy Hoa","Tan An","Dong Hoi","Sam Son","Lang Son","Vinh Long","Hoi An","Son La","Phan Rang - Thap Cham"],
+       "spyNames": ["Quang","Xuan An","Phong","An Dung","Hieu","Trieu","Hien","Ngoc","Tuan","Vien"],
+  },
+  //Vietnam - Republic
+  {
+       "name":"Republic of Vietnam",
+       "leaderName":"Ngo Dinh Diem",
+       "adjectives":["Vietnamese - Republic"],
+       "startBias":["None"],
+       "preferredVictoryType":"Cultural",
+       "favoredReligion":"Catholicism",
+
+       "startIntroPart1":"Salutations, President Ngo Dinh Diem, leader of the free Vietnamese people! Under your powerful and iron-fisted rule, you attempted to forge South Vietnam into a modern powerhouse amidst its growing conflict with the communist North. Establishing closer ties with America and other Western democracies, your rule was still fraught with both communist sabotage and civil strife between Buddhists and Catholics. And as the Americans realized that you were outside of their control, you were ultimately overthrown and murdered in a coup d'etat. Even your sworn communist enemies 'could scarcely believe the Americans would be so stupid', and publicly acknowledged your strength. Indeed, the coup was not the last to befall South Vietnam, and the carnage that would befall your nation had only just begun...",
+       "startIntroPart2":"President Diem, your people yearn for your guiding hand once more, to lead them into this brave new world. Can you establish a mighty nation capable of crushing its enemies? Will you form the diplomatic ties needed to secure your power? Can you build a civilization to stand the test of time?",
+
+       "introduction":"Ah, welcome! You are in the land of the Vietnamese, and I am their president, Ngo Dinh Diem. I hope we can be allies in our needs.",
+       "declaringWar":"You thought I didn't see the evil in you? Hah, you are too ambitious for this world, you must be perished.",
+       "attacking":"Blasphemous! You think your words have values here?! Well, you needed to be teach a lesson!",
+       "defeated":"Thanks to you, Vietnam fell into chaos, I'm assured you that you will regret this day!",
+       "afterPeace":"Sure, let's make peace in Vietnam and continue our progress as usual.",
+       "tradeRequest":"The Republic of Vietnam wants to trade with you. I can assure you this deal is good, you won't regret it.",
+     
+       "outerColor":[235,151,26],
+       "innerColor":[141,40,54],
+
+       "uniqueName":"Military Assistant Command",
+       "uniques":
+           ["[Great General]'s spawn rate <is increased> by [5%].","[Armoured] units can receive [-5]% Strength <when on [Forest] and [Jungle] tiles>"],
+       "cities": ["Saigon","Hue","Da Nang","Can Tho","Bien Hoa","Nha Trang","Hoi An","Ban Me Thuot","Ia Drang","Qui Nhon","Vung Tau","Da Lat","Khe Sanh","Cam Ranh","Long Xuyen","Thu Dau Mot","Phan Thiet","Rach Gia","Tam Ky","My Tho","Ca Mau","Bac Lieu","Pleiku","Soc Trang","Tuy Hoa","Tan An","Vinh Long","Phu Quoc","Con Son","Ham Tan","Quang Tri","Quang Ngai","Kontum","Hau Bon","Phan Rang - Thap Cham","Phuoc Long","Sa Dec","Khiem Cuong","Chau Doc"],
+       "spyNames": ["Trien","Khoi","Ma Tuyen","Vy","Tho","Thuc","Can","Luyen","Loan","Madame Nhu"],
   },
 ]
