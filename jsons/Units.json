@@ -481,4 +481,210 @@
         ],
         "attackSound": "cannon"
     },
+  //Vietnam - Ly Dynasty/Tran Dynasty/Later Le Dynasty
+  {
+        "name": "Voi Chien",
+        "replaces": "Knight",
+        "uniqueTo": "Dai Viet",
+        "unitType": "Mounted",
+        "movement": 5,
+        "strength": 25,
+        "cost": 125,
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Military Science",
+        "upgradesTo": "Cavalry",
+        "requiredResource": "Ivory",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "horse"
+    },
+    {
+        "name": "Ma Tau Warrior",
+        "replaces": "Pikeman",
+        "uniqueTo": "Dai Viet",
+        "unitType": "Sword",
+        "movement": 2,
+        "strength": 18,
+        "cost": 90,
+        "requiredTech": "Civil Service",
+        "uniques": ["[+55]% Strength <vs [Mounted] units>"],
+        "upgradesTo": "Dao Warrior",
+        "obsoleteTech": "Metallurgy",
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Dao Warrior",
+        "replaces": "Lancer",
+        "uniqueTo": "Dai Viet",
+        "unitType": "Mounted",
+        "movement": 4,
+        "strength": 25,
+        "cost": 180,
+        "requiredTech": "Metallurgy",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>",
+            "[+33]% Strength <vs [Mounted] units>",
+            "Never appears as a Barbarian unit",
+            "[+25]% Strength <vs [Military] units> <in [Forest] and [Jungle] tiles>"
+        ],
+        "upgradesTo": "Anti-Tank Rifle",
+        "obsoleteTech": "Railroads",
+        "attackSound": "horse"
+    },
+    {
+        "name": "Cam Quan",
+        "replaces": "Knight",
+        "uniqueTo": "Dai Viet",
+        "unitType": "Mounted",
+        "movement": 4,
+        "strength": 20,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Military Science",
+        "upgradesTo": "Cavalry",
+        "requiredResource": "Horses",
+        "promotions": ["Amphibious"],
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>",
+            "Never appears as a Barbarian unit",
+            "[+33]% Strength <vs [Mounted] units>"
+        ],
+        "attackSound": "horse"
+    },
+    {
+        "name": "Composite Bowman",
+        "unitType": "Archery",
+        "movement": 2,
+        "strength": 7,
+        "rangedStrength": 11,
+        "cost": 75,
+        "requiredTech": "Construction",
+        "obsoleteTech": "Machinery",
+        "upgradesTo": "Crossbowman",
+        "uniques": [
+            "Can move after attacking",
+            "Have a [25]% chance of additional attack <for each turn>"
+        ],
+        "attackSound": "arrow"
+    },
+  //Vietnam - Nguyen Dynasty
+    {
+        "name": "Godspeed Cannon",
+        "replaces": "Cannon",
+        "uniqueTo": "Dai Nam",
+        "unitType": "Siege",
+        "movement": 2,
+        "strength": 15,
+        "rangedStrength": 30,
+        "cost": 185,
+        "requiredTech": "Chemistry",
+        "promotions": ["Indirect Fire"],
+        "upgradesTo": "Artillery",
+        "obsoleteTech": "Dynamite",
+        "uniques": [
+            "[+200]% Strength <vs cities> <when attacking>",
+            "No defensive terrain bonus",
+            "Must set up to ranged attack",
+            "[-1] Sight",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "cannon"
+    },
+    {
+        "name": "Tonkin Musketeer",
+        "replaces": "Musketman",
+        "uniqueTo": "Dai Nam",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 25,
+        "cost": 150,
+        "requiredTech": "Gunpowder",
+        "upgradesTo": "Annam Rifleman",
+        "obsoleteTech": "Rifling",
+        "uniques": ["[+33]% Combat Strength <vs [Mounted] units>"],
+        "attackSound": "shot"
+    },
+    {
+        "name": "Annam Rifleman",
+        "replaces": "Rifleman",
+        "uniqueTo": "Dai Nam",
+        "unitType": "Gunpowder",
+        "movement": 2,
+        "strength": 34,
+        "cost": 225,
+        "requiredTech": "Rifling",
+        "obsoleteTech": "Replaceable Parts",
+        "uniques": [
+            "Can pass through impassable tiles",
+            "[+50]% Strength <vs [Sword] units>",
+            "[+33]% Strength <vs [Mounted] units>",
+            "[-33]% Strength <vs [Armoured] units>",
+            "[-50]% Strength <vs [Siege] units>"
+        ],
+        "upgradesTo": "Great War Infantry",
+        "attackSound": "shot"
+    },
+  //Vietnam - Socialist Republic
+    {
+        "name": "Artillery-Engineer Division",
+        "replaces": "Artillery",
+        "uniqueTo": "Socialist Republic of Vietnam",
+        "unitType": "Siege",
+        "movement": 2,
+        "strength": 21,
+        "rangedStrength": 28,
+        "range": 3,
+        "cost": 320,
+        "requiredTech": "Dynamite",
+        "upgradesTo": "Rocket Artillery",
+        "obsoleteTech": "Rocketry",
+        "uniques": [
+            "[+200]% Strength <vs cities> <when attacking>",
+            "No defensive terrain bonus",
+            "Must set up to ranged attack",
+            "[-1] Sight",
+            "Never appears as a Barbarian unit",
+            "[+50]% Combat Strength <vs [Military] units>",
+            "Ignores terrain costs <when beginning a turn adjacent to a [Great General]>",
+            "Can pass through impassable tiles <when beginning a turn adjacent to a [Great General]>"
+        ],
+        "promotions": ["Indirect Fire"],
+        "attackSound": "artillery"
+    },
+    {
+        "name": "Uncle Ho Infantry",
+        "replaces": "Great War Infantry",
+        "uniqueTo": "Socialist Republic of Vietnam",
+        "unitType": "Gunpowder",
+        "movement": 3,
+        "strength": 50,
+        "cost": 330,
+        "requiredTech": "Replaceable Parts",
+        "upgradesTo": "Infantry",
+        "obsoleteTech": "Electronics",
+        "promotions": ["Cover I","Cover II","Ambush I"],
+        "attackSound": "shot"
+    },
+    {
+        "name": "People's Liberation Front Infantry",
+        "replaces": "Infantry",
+        "uniqueTo": "Socialist Republic of Vietnam",
+        "unitType": "Gunpowder",
+        "movement": 3,
+        "strength": 70,
+        "cost": 350,
+        "requiredTech": "Electronics",
+        "uniques": ["Can pass through impassable tiles"],
+        "upgradesTo": "Mechanized Infantry",
+        "obsoleteTech": "Mobile Tactics",
+        "attackSound": "shot"
+    },
 ]
